@@ -5,7 +5,7 @@ A collection of 64 colour themes that I made for the GrandMA3 lighting console. 
 
 Made by **Shay Burrows / [Burrows Production](https://www.instagram.com/burrows.prod/)**
 
-![Palette Pack Preview](Preview.png)
+![Palette Pack Preview](previews/Preview.png)
 
 ---
 

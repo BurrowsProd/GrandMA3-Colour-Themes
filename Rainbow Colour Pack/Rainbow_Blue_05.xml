@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Rainbow Blue - grandMA3 colour theme
+  Author: Shay Burrows / Burrows Production
+  Created: October 2026
+-->
+<GMA3 DataVersion="2.5.1.1">
+    <ColorTheme FileName="Rainbow_5_Blue.xml">
+        <ColorDefCollect>
+            <ColorDefGroup Name="Global">
+                <ColorDef Name="Text"                             RGBA="E5EFFAFF"/>
+                <ColorDef Name="TextDefault"                      RGBA="2E629EFF"/>
+                <ColorDef Name="TextDark"                         RGBA="070F18FF"/>
+                <ColorDef Name="Background"                       RGBA="070F1880"/>
+                <ColorDef Name="BackgroundDark"                   RGBA="070F18FF"/>
+                <ColorDef Name="Header"                           RGBA="102237FF"/>
+                <ColorDef Name="AltHeader"                        RGBA="162F4CFF"/>
+                <ColorDef Name="DefaultCellBackground"            RGBA="1E406780"/>
+                <ColorDef Name="DefaultCellAltBackground"         RGBA="18345380"/>
+                <ColorDef Name="Selected"                         RGBA="4298FAFF"/>
+                <ColorDef Name="SelectedInverted"                 RGBA="99C8FCFF"/>
+                <ColorDef Name="SelectedEdge"                     RGBA="A5CEFDFF"/>
+                <ColorDef Name="InvalidGridPosition"              RGBA="99C8FCFF"/>
+                <ColorDef Name="MainMultiPatchSelected"           RGBA="A5CEFDFF"/>
+                <ColorDef Name="PartlySelected"                   RGBA="103D70FF"/>
+                <ColorDef Name="SelectedPreset"                   RGBA="4298FAFF"/>
+                <ColorDef Name="PartlySelectedPreset"             RGBA="09223FFF"/>
+                <ColorDef Name="BackgroundSelected"               RGBA="183453FF"/>
+                <ColorDef Name="BackgroundInvalidGridPosition"    RGBA="183453FF"/>
+                <ColorDef Name="BackgroundMainMultiPatchSelected" RGBA="102237FF"/>
+                <ColorDef Name="BackgroundSelectedInverted"       RGBA="132942FF"/>
+                <ColorDef Name="Connected"                        RGBA="103D70FF"/>
+                <ColorDef Name="Lasso"                            RGBA="16549AFF"/>
+                <ColorDef Name="FocusFrame"                       RGBA="E5EFFAFF"/>
+                <ColorDef Name="WindowFocus"                      RGBA="1A385AFF"/>
+                <ColorDef Name="Hover"                            RGBA="1A385AFF"/>
+                <ColorDef Name="SelectedFrameBackground"          RGBA="0D3059FF"/>
+                <ColorDef Name="SelectedRowBorder"                RGBA="4298FAFF"/>
+                <ColorDef Name="Pressed"                          RGBA="2E629EFF"/>
+                <ColorDef Name="ButtonBackground"                 RGBA="1E4067FF"/>
+                <ColorDef Name="ButtonBackgroundTransparent75"    RGBA="1E4067CD"/>
+                <ColorDef Name="ButtonBackgroundDarker"           RGBA="183453FF"/>
+                <ColorDef Name="ButtonIndicatorIcon"              RGBA="ABC5E3FF"/>
+                <ColorDef Name="ButtonAdditionalText"             RGBA="185BA8FF"/>
+                <ColorDef Name="ActiveIcon"                       RGBA="4298FAFF"/>
+                <ColorDef Name="Inactive"                         RGBA="2E629EA0"/>
+                <ColorDef Name="Bright"                           RGBA="ABC5E3FF"/>
+                <ColorDef Name="TitleGray"                        RGBA="2E629EFF"/>
+                <ColorDef Name="LabelText"                        RGBA="2E629EFF"/>
+                <ColorDef Name="IndicatorBar"                     RGBA="2E629EFF"/>
+                <ColorDef Name="PropertyBackground"               RGBA="183453FF"/>
+                <ColorDef Name="PropertyBackgroundActive"         RGBA="132942FF"/>
+                <ColorDef Name="Fixed"                            RGBA="185BA8FF"/>
+                <ColorDef Name="Icon"                             RGBA="E5EFFAFF"/>
+                <ColorDef Name="IconHover"                        RGBA="E5EFFAFF"/>
+                <ColorDef Name="RedIndicator"                     RGBA="103D70FF"/>
+                <ColorDef Name="DarkRedIndicator"                 RGBA="081F3AFF"/>
+                <ColorDef Name="GreenIndicator"                   RGBA="185BA8FF"/>
+                <ColorDef Name="DarkGreenIndicator"               RGBA="081F3AFF"/>
+                <ColorDef Name="YellowIndicator"                  RGBA="4298FAFF"/>
+                <ColorDef Name="DarkOrangeIndicator"              RGBA="103D70FF"/>
+                <ColorDef Name="OrangeIndicator"                  RGBA="3390FAFF"/>
+                <ColorDef Name="CyanIndicator"                    RGBA="4298FAFF"/>
+                <ColorDef Name="PreviewIndicator"                 RGBA="6EB0FBFF"/>
+                <ColorDef Name="UpdateIndicator"                  RGBA="4298FAFF"/>
+                <ColorDef Name="UpdateAddIndicator"               RGBA="6EB0FBFF"/>
+                <ColorDef Name="UpdateIntegrated"                 RGBA="4298FAFF"/>
+                <ColorDef Name="UpdateAddIntegrated"              RGBA="99C8FCFF"/>
+                <ColorDef Name="Warning"                          RGBA="4298FAFF"/>
+                <ColorDef Name="Error"                            RGBA="4298FAFF"/>
+                <ColorDef Name="Alert"                            RGBA="4298FAFF"/>
+                <ColorDef Name="Success"                          RGBA="4298FAFF"/>
+                <ColorDef Name="RedBackground"                    RGBA="114075FF"/>
+                <ColorDef Name="OverlayBackground"                RGBA="070F18FF"/>
+                <ColorDef Name="GreenBackground"                  RGBA="103C6EFF"/>
+                <ColorDef Name="Shadow"                           RGBA="0000008D"/>
+                <ColorDef Name="ShadowDark"                       RGBA="000000CC"/>
+                <ColorDef Name="DeskLock"                         RGBA="4298FA81"/>
+                <ColorDef Name="Disabled"                         RGBA="E5EFFA50"/>
+                <ColorDef Name="Referenced"                       RGBA="4298FAFF"/>
+                <ColorDef Name="AfterGlow"                        />
+                <ColorDef Name="GlobalPreset"                     RGBA="3390FAFF"/>
+                <ColorDef Name="SelectivePreset"                  RGBA="4298FAFF"/>
+                <ColorDef Name="UniversalPreset"                  RGBA="ABC5E3FF"/>
+                <ColorDef Name="ForSome"                          RGBA="4298FAFF"/>
+                <ColorDef Name="ForAll"                           RGBA="4298FAFF"/>
+                <ColorDef Name="ForNone"                          RGBA="E5EFFAA0"/>
+                <ColorDef Name="Lightened"                        />
+                <ColorDef Name="Darkened"                         RGBA="070F18FF"/>
+                <ColorDef Name="Transparent"                      RGBA="00000000"/>
+                <ColorDef Name="Transparent25"                    RGBA="00000040"/>
+                <ColorDef Name="Transparent50"                    RGBA="00000080"/>
+                <ColorDef Name="Transparent75"                    RGBA="000000C0"/>
+                <ColorDef Name="TransparentWhite"                 RGBA="FFFFFF66"/>
+                <ColorDef Name="TransparentWhite25"               RGBA="FFFFFF40"/>
+                <ColorDef Name="Parked"                           RGBA="4298FAFF"/>
+                <ColorDef Name="RemoteInputLock"                  RGBA="0E3765CC"/>
+                <ColorDef Name="TextViewSelectedRow"              RGBA="183453FF"/>
+                <ColorDef Name="TextViewBackground"               RGBA="070F18FF"/>
+                <ColorDef Name="TextViewFixedBackground"          RGBA="081F3AFF"/>
+                <ColorDef Name="Collected"                        RGBA="4298FAFF"/>
+                <ColorDef Name="UserChanged"                      RGBA="59A5FBFF"/>
+                <ColorDef Name="ClonedHint"                       RGBA="4298FAFF"/>
+                <ColorDef Name="WaveForm"                         RGBA="4298FACC"/>
+                <ColorDef Name="Cooked"                           RGBA="99C8FCFF"/>
+                <ColorDef Name="DmxTest"                          />
+            </ColorDefGroup>
+            <ColorDefGroup Name="SheetColor">
+                <ColorDef Name="Text"                             RGBA="2E629EFF"/>
+                <ColorDef Name="TextTracked"                      RGBA="185BA8FF"/>
+                <ColorDef Name="TextBlocked"                      RGBA="E5EFFAFF"/>
+                <ColorDef Name="TextActive"                       RGBA="E5EFFAFF"/>
+                <ColorDef Name="TextOtherUser"                    RGBA="070F18FF"/>
+                <ColorDef Name="TextPlayback"                     RGBA="185BA8FF"/>
+                <ColorDef Name="TextPlaybackTracked"              RGBA="103D70FF"/>
+                <ColorDef Name="TextOtherPlayback"                RGBA="185BA8FF"/>
+                <ColorDef Name="TextOtherPlaybackTracked"         RGBA="103D70FF"/>
+                <ColorDef Name="TextOtherProgrammer"              RGBA="E5EFFAFF"/>
+                <ColorDef Name="BackgroundOtherProgrammer"        RGBA="2E629EFF"/>
+                <ColorDef Name="TextSelectedPlayback"             RGBA="4298FAFF"/>
+                <ColorDef Name="Background"                       RGBA="1E406780"/>
+                <ColorDef Name="OtherUser"                        RGBA="2E629EFF"/>
+                <ColorDef Name="Fade"                             RGBA="103D70FF"/>
+                <ColorDef Name="FadeText"                         RGBA="1F85F9FF"/>
+                <ColorDef Name="Delay"                            RGBA="16559DFF"/>
+                <ColorDef Name="DelayText"                        RGBA="4298FAFF"/>
+                <ColorDef Name="DelayTextBlocked"                 RGBA="4298FAFF"/>
+                <ColorDef Name="Absolute"                         RGBA="12447DFF"/>
+                <ColorDef Name="AbsoluteText"                     RGBA="2B8BFAFF"/>
+                <ColorDef Name="AbsoluteTextBlocked"              RGBA="57A3FBFF"/>
+                <ColorDef Name="Relative"                         RGBA="2488F9FF"/>
+                <ColorDef Name="RelativeText"                     RGBA="81BAFCFF"/>
+                <ColorDef Name="RelativeTextBlocked"              RGBA="E5EFFAFF"/>
+                <ColorDef Name="Phaser"                           RGBA="17569FFF"/>
+                <ColorDef Name="PhaserText"                       RGBA="4398FAFF"/>
+                <ColorDef Name="GridPos"                          RGBA="0A2543FF"/>
+                <ColorDef Name="GridPosText"                      RGBA="134986FF"/>
+                <ColorDef Name="ID"                               RGBA="1F436CFF"/>
+                <ColorDef Name="IDText"                           RGBA="2E629EFF"/>
+                <ColorDef Name="IDTextBlocked"                    RGBA="ABC5E3FF"/>
+                <ColorDef Name="PresetAbs"                        RGBA="103D70FF"/>
+                <ColorDef Name="PresetRel"                        RGBA="103D70FF"/>
+                <ColorDef Name="Integrated"                       RGBA="103D70FF"/>
+                <ColorDef Name="PresetText"                       RGBA="4298FAFF"/>
+                <ColorDef Name="RelPresetText"                    RGBA="1F85F9FF"/>
+                <ColorDef Name="IntegratedText"                   RGBA="4298FAFF"/>
+                <ColorDef Name="Update"                           RGBA="4298FAFF"/>
+                <ColorDef Name="NotAvailable"                     RGBA="4298FA88"/>
+                <ColorDef Name="DownGoingText"                    RGBA="4298FAFF"/>
+                <ColorDef Name="UpGoingText"                      RGBA="4097FAFF"/>
+                <ColorDef Name="TextMIB"                          RGBA="070F18FF"/>
+                <ColorDef Name="BackMIB"                          RGBA="0B2B4FFF"/>
+                <ColorDef Name="TextMIBFade"                      RGBA="070F18FF"/>
+                <ColorDef Name="BackMIBFade"                      RGBA="103C6FFF"/>
+                <ColorDef Name="GroupMasterActive"                RGBA="092442FF"/>
+                <ColorDef Name="AdditiveMasterActive"             RGBA="2286F9FF"/>
+                <ColorDef Name="PreviewMixIn"                     RGBA="4298FAFF"/>
+            </ColorDefGroup>
+            <ColorDefGroup Name="Playback">
+                <ColorDef Name="Off"                              RGBA="070F18FF"/>
+                <ColorDef Name="On"                               RGBA="4298FAFF"/>
+                <ColorDef Name="Paused"                           RGBA="4298FAFF"/>
+                <ColorDef Name="Forwards"                         RGBA="4298FAFF"/>
+                <ColorDef Name="Backwards"                        RGBA="4298FAFF"/>
+                <ColorDef Name="FastForwards"                     RGBA="4298FAFF"/>
+                <ColorDef Name="FastBackwards"                    RGBA="4298FAFF"/>
+                <ColorDef Name="Recording"                        RGBA="4298FAFF"/>
+                <ColorDef Name="ActiveCue"                        RGBA="1F85F9FF"/>
+                <ColorDef Name="FaderBarBack"                     RGBA="E5EFFA40"/>
+                <ColorDef Name="FaderBar"                         RGBA="E5EFFA80"/>
+                <ColorDef Name="FaderBarText"                     RGBA="070F18FF"/>
+                <ColorDef Name="Blue50"                           RGBA="4298FA80"/>
+                <ColorDef Name="Blue75"                           RGBA="4298FAC0"/>
+                <ColorDef Name="Yellow25"                         RGBA="185BA840"/>
+                <ColorDef Name="Yellow50"                         RGBA="185BA880"/>
+                <ColorDef Name="Yellow75"                         RGBA="185BA8C0"/>
+                <ColorDef Name="White25"                          RGBA="E5EFFA40"/>
+                <ColorDef Name="White50"                          RGBA="E5EFFA80"/>
+                <ColorDef Name="White75"                          RGBA="E5EFFAC0"/>
+                <ColorDef Name="Cyan25"                           RGBA="4298FA40"/>
+            </ColorDefGroup>
+            <ColorDefGroup Name="PoolDefault">
+                <ColorDef Name="View"                             RGBA="2E629EFF"/>
+                <ColorDef Name="Macro"                            RGBA="103D70FF"/>
+                <ColorDef Name="Quickey"                          RGBA="142C46FF"/>
+                <ColorDef Name="Plugin"                           RGBA="0E3562FF"/>
+                <ColorDef Name="Menu"                             RGBA="0E3562FF"/>
+                <ColorDef Name="Group"                            RGBA="103D70FF"/>
+                <ColorDef Name="Shape"                            RGBA="103D70FF"/>
+                <ColorDef Name="World"                            RGBA="103D70FF"/>
+                <ColorDef Name="Filter"                           RGBA="12447EFF"/>
+                <ColorDef Name="Sequence"                         RGBA="154F91FF"/>
+                <ColorDef Name="Preset"                           RGBA="103D70FF"/>
+                <ColorDef Name="PresetDimmer"                     RGBA="103D70FF"/>
+                <ColorDef Name="PresetPosition"                   RGBA="103D70FF"/>
+                <ColorDef Name="PresetGobo"                       RGBA="103D70FF"/>
+                <ColorDef Name="PresetColor"                      RGBA="103D70FF"/>
+                <ColorDef Name="PresetBeam"                       RGBA="103D70FF"/>
+                <ColorDef Name="PresetFocus"                      RGBA="103D70FF"/>
+                <ColorDef Name="PresetControl"                    RGBA="103D70FF"/>
+                <ColorDef Name="PresetShapers"                    RGBA="103D70FF"/>
+                <ColorDef Name="PresetVideo"                      RGBA="103D70FF"/>
+                <ColorDef Name="PresetDynamic"                    RGBA="103D70FF"/>
+                <ColorDef Name="PresetAll"                        RGBA="103D70FF"/>
+                <ColorDef Name="Master"                           RGBA="103D70FF"/>
+                <ColorDef Name="Configuration"                    RGBA="2E629EFF"/>
+                <ColorDef Name="Handle"                           RGBA="2E629EFF"/>
+                <ColorDef Name="Page"                             RGBA="2E629EFF"/>
+                <ColorDef Name="Image"                            RGBA="2E629EFF"/>
+                <ColorDef Name="Video"                            RGBA="2E629EFF"/>
+                <ColorDef Name="Appearance"                       RGBA="2E629EFF"/>
+                <ColorDef Name="Scribble"                         RGBA="2E629EFF"/>
+                <ColorDef Name="Gobo"                             RGBA="2E629EFF"/>
+                <ColorDef Name="Gels"                             RGBA="155196FF"/>
+                <ColorDef Name="Matricks"                         RGBA="134987FF"/>
+                <ColorDef Name="SmartView"                        RGBA="2E629EFF"/>
+                <ColorDef Name="Timecodes"                        RGBA="2E629EFF"/>
+                <ColorDef Name="Layouts"                          RGBA="2E629EFF"/>
+                <ColorDef Name="Universes"                        RGBA="2E629EFF"/>
+                <ColorDef Name="Users"                            RGBA="2E629EFF"/>
+                <ColorDef Name="Sounds"                           RGBA="0F3766FF"/>
+                <ColorDef Name="Camera"                           RGBA="2E629EFF"/>
+                <ColorDef Name="DataPool"                         RGBA="2E629EFF"/>
+                <ColorDef Name="Mesh"                             RGBA="2E629EFF"/>
+                <ColorDef Name="RenderQuality"                    RGBA="2E629EFF"/>
+                <ColorDef Name="Materials"                        RGBA="A5CEFDFF"/>
+                <ColorDef Name="Generators"                       RGBA="2789F9FF"/>
+                <ColorDef Name="Bitmaps"                          RGBA="12457FFF"/>
+                <ColorDef Name="Timers"                           RGBA="2E629EFF"/>
+                <ColorDef Name="EncoderBar"                       RGBA="2E629EFF"/>
+                <ColorDef Name="Tags"                             RGBA="2E629EFF"/>
+                <ColorDef Name="Executor"                         RGBA="2E629EFF"/>
+                <ColorDef Name="Station"                          RGBA="2E629EFF"/>
+            </ColorDefGroup>
+        </ColorDefCollect>
+        <ColorGroups>
+            <ColorGroup Name="Global">
+                <Color Name="Disabled"                              ColorDefRef="Global.Disabled" RGBA="E5EFFA50"/>
+                <Color Name="Focus"                                 ColorDefRef="Global.WindowFocus" RGBA="1A385AFF"/>
+                <Color Name="FocusText"                             ColorDefRef="Global.TextDark" RGBA="070F18FF"/>
+                <Color Name="AnimatedFocus1"                        ColorDefRef="Global.FocusFrame" RGBA="E5EFFAFF"/>
+                <Color Name="AnimatedFocus2"                        ColorDefRef="Global.FocusFrame" RGBA="E5EFFAFF"/>
+                <Color Name="Hover"                                 ColorDefRef="Global.Hover" RGBA="1A385AFF"/>
+                <Color Name="Pressed"                               ColorDefRef="Global.Pressed" RGBA="2E629EFF"/>
+                <Color Name="Selected"                              ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="SelectedInverted"                      ColorDefRef="Global.SelectedInverted" RGBA="99C8FCFF"/>
+                <Color Name="SelectedEdge"                          ColorDefRef="Global.SelectedEdge" RGBA="A5CEFDFF"/>
+                <Color Name="InvalidGridPosition"                   ColorDefRef="Global.InvalidGridPosition" RGBA="99C8FCFF"/>
+                <Color Name="PartlySelected"                        ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+                <Color Name="SelectedPreset"                        ColorDefRef="Global.SelectedPreset" RGBA="4298FAFF"/>
+                <Color Name="PartlySelectedPreset"                  ColorDefRef="Global.PartlySelectedPreset" RGBA="09223FFF"/>
+                <Color Name="Transparent"                           ColorDefRef="Global.Transparent" RGBA="00000000"/>
+                <Color Name="Transparent25"                         ColorDefRef="Global.Transparent25" RGBA="00000040"/>
+                <Color Name="Transparent50"                         ColorDefRef="Global.Transparent50" RGBA="00000080"/>
+                <Color Name="Transparent75"                         ColorDefRef="Global.Transparent75" RGBA="000000C0"/>
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="BackgroundSelected"                    ColorDefRef="Global.BackgroundSelected" RGBA="183453FF"/>
+                <Color Name="BackgroundSelectedInverted"            ColorDefRef="Global.BackgroundSelectedInverted" RGBA="132942FF"/>
+                <Color Name="Default"                               ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="DefaultTransparent75"                  ColorDefRef="Global.ButtonBackgroundTransparent75" RGBA="1E4067CD"/>
+                <Color Name="Inactive"                              ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="Bright"                                ColorDefRef="Global.Bright" RGBA="ABC5E3FF"/>
+                <Color Name="Shadow"                                ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="Lightened"                             ColorDefRef="Global.Lightened"/>
+                <Color Name="Darkened"                              ColorDefRef="Global.Darkened" RGBA="070F18FF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="LabelText"                             ColorDefRef="Global.LabelText" RGBA="2E629EFF"/>
+                <Color Name="WarningText"                           ColorDefRef="Global.Warning" RGBA="4298FAFF"/>
+                <Color Name="ErrorText"                             ColorDefRef="Global.Error" RGBA="4298FAFF"/>
+                <Color Name="AlertText"                             ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="SuccessText"                           ColorDefRef="Global.Success" RGBA="4298FAFF"/>
+                <Color Name="Neutral"                              />
+                <Color Name="Collected"                             ColorDefRef="Global.Collected" RGBA="4298FAFF"/>
+                <Color Name="UserChanged"                           ColorDefRef="Global.UserChanged" RGBA="59A5FBFF"/>
+                <Color Name="Charging"                             />
+                <Color Name="Running"                               RGBA="4298FAFF"/>
+                <Color Name="Preview"                               ColorDefRef="Global.PreviewIndicator" RGBA="6EB0FBFF"/>
+            </ColorGroup>
+            <ColorGroup Name="ExecConfigEdit">
+                <Color Name="ExecSizeFrame"                         RGBA="2E629EC0"/>
+            </ColorGroup>
+            <ColorGroup Name="RadioItemButton">
+                <Color Name="Selected"                              ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="SelectedBackground"                    ColorDefRef="Global.BackgroundSelected" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Assignment">
+                <Color Name="Empty"                                 ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="View"                                  ColorDefRef="PoolDefault.View" RGBA="2E629EFF"/>
+                <Color Name="Macro"                                 ColorDefRef="PoolDefault.Macro" RGBA="103D70FF"/>
+                <Color Name="Quickey"                               ColorDefRef="PoolDefault.Quickey" RGBA="142C46FF"/>
+                <Color Name="Plugin"                                ColorDefRef="PoolDefault.Plugin" RGBA="0E3562FF"/>
+                <Color Name="Menu"                                  ColorDefRef="PoolDefault.Menu" RGBA="0E3562FF"/>
+                <Color Name="Group"                                 ColorDefRef="PoolDefault.Group" RGBA="103D70FF"/>
+                <Color Name="Sequence"                              ColorDefRef="PoolDefault.Sequence" RGBA="154F91FF"/>
+                <Color Name="Cue"                                   ColorDefRef="PoolDefault.Sequence" RGBA="154F91FF"/>
+                <Color Name="Preset"                                ColorDefRef="PoolDefault.Preset" RGBA="103D70FF"/>
+                <Color Name="Master"                                ColorDefRef="PoolDefault.Master" RGBA="103D70FF"/>
+                <Color Name="Image"                                 ColorDefRef="PoolDefault.Image" RGBA="2E629EFF"/>
+                <Color Name="SmartView"                             ColorDefRef="PoolDefault.SmartView" RGBA="2E629EFF"/>
+                <Color Name="World"                                 ColorDefRef="PoolDefault.World" RGBA="103D70FF"/>
+                <Color Name="Sounds"                                ColorDefRef="PoolDefault.Sounds" RGBA="0F3766FF"/>
+                <Color Name="Timecodes"                             ColorDefRef="PoolDefault.Timecodes" RGBA="2E629EFF"/>
+                <Color Name="Layouts"                               ColorDefRef="PoolDefault.Layouts" RGBA="2E629EFF"/>
+                <Color Name="World"                                 ColorDefRef="PoolDefault.World" RGBA="103D70FF"/>
+                <Color Name="Users"                                 ColorDefRef="PoolDefault.Users" RGBA="2E629EFF"/>
+                <Color Name="ScreenConfig"                          RGBA="2E629EFF"/>
+                <Color Name="SubFixture"                            RGBA="2E629EFF"/>
+                <Color Name="Fixture"                               RGBA="2E629EFF"/>
+                <Color Name="Display"                               RGBA="2E629EFF"/>
+                <Color Name="Matricks"                              ColorDefRef="PoolDefault.Matricks" RGBA="134987FF"/>
+                <Color Name="Timers"                                ColorDefRef="PoolDefault.Timers" RGBA="2E629EFF"/>
+                <Color Name="EncoderBar"                            ColorDefRef="PoolDefault.EncoderBar" RGBA="2E629EFF"/>
+                <Color Name="Filter"                                ColorDefRef="PoolDefault.Filter" RGBA="12447EFF"/>
+                <Color Name="Executor"                              ColorDefRef="PoolDefault.Executor" RGBA="2E629EFF"/>
+                <Color Name="Station"                               ColorDefRef="PoolDefault.Station" RGBA="2E629EFF"/>
+                <Color Name="Tag"                                   ColorDefRef="PoolDefault.Tags" RGBA="2E629EFF"/>
+                <Color Name="Shape"                                 ColorDefRef="PoolDefault.Shape" RGBA="103D70FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Clock">
+                <Color Name="Pixel"                                 ColorDefRef="Global.OrangeIndicator" RGBA="3390FAFF"/>
+                <Color Name="Fixed"                                 ColorDefRef="Global.Fixed" RGBA="185BA8FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Piano">
+                <Color Name="Black"                                 RGBA="070F18FF"/>
+                <Color Name="White"                                 RGBA="132942FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Beat">
+                <Color Name="DownBeat"                              RGBA="4298FAFF"/>
+                <Color Name="NormalBeat"                            RGBA="4298FAFF"/>
+                <Color Name="InactiveBeat"                          RGBA="2E629ED0"/>
+                <Color Name="DisabledBeat"                          RGBA="132942D0"/>
+            </ColorGroup>
+            <ColorGroup Name="Network">
+                <Color Name="Undefined"                             RGBA="070F18FF"/>
+                <Color Name="OtherSession"                          RGBA="2E629EFF"/>
+                <Color Name="Missing"                               RGBA="4298FAFF"/>
+                <Color Name="Startup"                               RGBA="070F18FF"/>
+                <Color Name="Standalone"                            RGBA="4298FAFF"/>
+                <Color Name="Connected"                             RGBA="4298FAFF"/>
+                <Color Name="LocalMaster"                           RGBA="4298FAFF"/>
+                <Color Name="IdleMaster"                            RGBA="ABC5E3FF"/>
+                <Color Name="GlobalMaster"                          RGBA="4298FAFF"/>
+                <Color Name="NormalShutdown"                        RGBA="070F18FF"/>
+                <Color Name="ErrorShutdown"                         RGBA="103D70FF"/>
+                <Color Name="UpdateMode"                            RGBA="103D70FF"/>
+                <Color Name="LicenceInvalid"                        RGBA="103D70FF"/>
+                <Color Name="DisableNetwork"                        RGBA="103D70FF"/>
+                <Color Name="EnableNetwork"                         RGBA="185BA8FF"/>
+                <Color Name="NetworkError"                          RGBA="081F3AFF"/>
+                <Color Name="WorldServerOn"                         RGBA="4298FAFF"/>
+                <Color Name="WorldServerOff"                        ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+            </ColorGroup>
+            <ColorGroup Name="MAtricks">
+                <Color Name="TextInactive"                          ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="TextActive"                            ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="BackgroundInactive"                    ColorDefRef="Global.PropertyBackground" RGBA="183453FF"/>
+                <Color Name="BackgroundActive"                      ColorDefRef="PoolDefault.Matricks" RGBA="134987FF"/>
+                <Color Name="BackgroundX"                           RGBA="4298FA26"/>
+                <Color Name="BackgroundY"                           RGBA="4298FA26"/>
+                <Color Name="BackgroundZ"                           RGBA="4298FA26"/>
+            </ColorGroup>
+            <ColorGroup Name="MessageCenter">
+                <Color Name="HeadlineBackground"                    ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="FlashSpamBackground"                   RGBA="185BA8FF"/>
+                <Color Name="NewInformationBackground"              RGBA="134987FF"/>
+                <Color Name="FlashWarningBackground"                ColorDefRef="Global.Warning" RGBA="4298FAFF"/>
+                <Color Name="NewWarningBackground"                  RGBA="134987FF"/>
+                <Color Name="FlashErrorBackground"                  ColorDefRef="Global.Error" RGBA="4298FAFF"/>
+                <Color Name="NewErrorBackground"                    RGBA="134987FF"/>
+                <Color Name="FlashAlertBackground"                  ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="NewAlertBackground"                    RGBA="134987FF"/>
+                <Color Name="EmptyBackground"                       ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="NotificationNone"                      ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="NotificationNotification"              ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="NotificationAlert"                     ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="StatusCenter">
+                <Color Name="Inactive"                              ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="Active"                                ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Warning"                               ColorDefRef="Global.Warning" RGBA="4298FAFF"/>
+                <Color Name="Error"                                 ColorDefRef="Global.Error" RGBA="4298FAFF"/>
+                <Color Name="Alert"                                 ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="Enabled"                               RGBA="4298FAFF"/>
+                <Color Name="Cooking"                               ColorDefRef="Global.Cooked" RGBA="99C8FCFF"/>
+                <Color Name="Parked"                                RGBA="4298FAFF"/>
+                <Color Name="Lowlight"                              RGBA="4298FAFF"/>
+                <Color Name="Button"                                RGBA="17304EFF"/>
+                <Color Name="Blink"                                 ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="Preview"                               ColorDefRef="Global.PreviewIndicator" RGBA="6EB0FBFF"/>
+                <Color Name="ButtonTextShadow"                      ColorDefRef="Global.TransparentWhite25" RGBA="FFFFFF40"/>
+            </ColorGroup>
+            <ColorGroup Name="NumericInput">
+                <Color Name="SpecialValueBackground"                ColorDefRef="Global.RedBackground" RGBA="114075FF"/>
+                <Color Name="SoundValueBackground"                  ColorDefRef="PoolDefault.Sounds" RGBA="0F3766FF"/>
+                <Color Name="MediaValueBackground"                  ColorDefRef="Global.GreenBackground" RGBA="103C6EFF"/>
+                <Color Name="ExtendedActive"                        ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="BackgroundPreset"                      ColorDefRef="PoolDefault.Preset" RGBA="103D70FF"/>
+            </ColorGroup>
+            <ColorGroup Name="SysInfoButton">
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="Screen">
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="DelimiterColor"                        ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="ActiveDelimiterColor"                  ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="ExtendedActive"                        ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Display">
+                <Color Name="Screenshot"                            RGBA="4298FA40"/>
+                <Color Name="SaveShow"                              RGBA="2085F9FF"/>
+                <Color Name="FrameColor"                            ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="Overlay">
+                <Color Name="Background"                            ColorDefRef="Global.OverlayBackground" RGBA="070F18FF"/>
+                <Color Name="FrameColor"                            ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+                <Color Name="TextShadow"                            ColorDefRef="Playback.White50" RGBA="E5EFFA80"/>
+                <Color Name="PreviewMixIn"                          ColorDefRef="SheetColor.PreviewMixIn" RGBA="4298FAFF"/>
+                <Color Name="EditMixIn"                             ColorDefRef="Global.DarkGreenIndicator" RGBA="081F3AFF"/>
+                <Color Name="EditMixInNotOwner"                     ColorDefRef="Global.DarkOrangeIndicator" RGBA="103D70FF"/>
+            </ColorGroup>
+            <ColorGroup Name="UIObject">
+                <Color Name="Background"                            ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TextShadow"                            ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+            </ColorGroup>
+            <ColorGroup Name="Button">
+                <Color Name="Background"                            ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Icon"                                  ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="IndicatorIcon"                         ColorDefRef="Global.ButtonIndicatorIcon" RGBA="ABC5E3FF"/>
+                <Color Name="IconHover"                             ColorDefRef="Global.IconHover" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveBackground"                      ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="ActiveText"                            ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="ActiveIcon"                            ColorDefRef="Global.ActiveIcon" RGBA="4298FAFF"/>
+                <Color Name="BackgroundClear"                       ColorDefRef="Global.RedBackground" RGBA="114075FF"/>
+                <Color Name="BackgroundPlease"                      ColorDefRef="Global.GreenBackground" RGBA="103C6EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="Filter">
+                <Color Name="ActiveText"                            ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="ActiveIcon"                            ColorDefRef="Global.ActiveIcon" RGBA="4298FAFF"/>
+                <Color Name="IconHover"                             ColorDefRef="Global.OrangeIndicator" RGBA="3390FAFF"/>
+                <Color Name="Background"                            RGBA="0F3969FF"/>
+            </ColorGroup>
+            <ColorGroup Name="ContextButton">
+                <Color Name="Icon"                                  RGBA="E5EFFAA0"/>
+                <Color Name="Background"                            ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+                <Color Name="IconHover"                             RGBA="E5EFFAD2"/>
+            </ColorGroup>
+            <ColorGroup Name="TitleButton">
+                <Color Name="Background"                            ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveText"                            ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TextShadow"                            ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="ActiveTextShadow"                      ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="WorldIcon"                             ColorDefRef="PoolDefault.World" RGBA="103D70FF"/>
+                <Color Name="WorldText"                             ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="WorldShadow"                           ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="ActiveWorldText"                       ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveWorldShadow"                     ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="SelectionCountIcon"                    ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="SelectionCountText"                    ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="SelectionCountShadow"                  ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="ActiveSelectionCountText"              ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveSelectionCountShadow"            ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="FilterIcon"                            ColorDefRef="PoolDefault.Filter" RGBA="12447EFF"/>
+                <Color Name="FilterText"                            ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="FilterShadow"                          ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="ActiveFilterText"                      ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveFilterShadow"                    ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="InfoIcon"                              ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="InfoText"                              ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="InfoShadow"                            ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="ActiveInfoText"                        ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveInfoShadow"                      ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="DataPoolIcon"                         />
+                <Color Name="DataPoolText"                          ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="DataPoolShadow"                        ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="ActiveDataPoolText"                    ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveDataPoolShadow"                  ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="DynamicFilterIcon"                     ColorDefRef="PoolDefault.Filter" RGBA="12447EFF"/>
+                <Color Name="DynamicFilterText"                     ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="DynamicFilterShadow"                   ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="ActiveDynamicFilterText"               ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveDynamicFilterShadow"             ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+            </ColorGroup>
+            <ColorGroup Name="PoolTitleButton">
+                <Color Name="Background"                            ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Icon"                                  ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="CloseButton">
+                <Color Name="Background"                            ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+                <Color Name="Icon"                                  ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveIcon"                            ColorDefRef="Global.ActiveIcon" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="PropertyControl">
+                <Color Name="Background"                            ColorDefRef="Global.PropertyBackground" RGBA="183453FF"/>
+                <Color Name="ActiveBackground"                      ColorDefRef="Global.BackgroundSelected" RGBA="183453FF"/>
+                <Color Name="ActiveIcon"                            ColorDefRef="Global.ActiveIcon" RGBA="4298FAFF"/>
+                <Color Name="ValueTextColor"                        ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="InactiveText"                          ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="InactiveBackground"                    ColorDefRef="Global.PropertyBackground" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="ValueFadeControl">
+                <Color Name="Fader"                                 ColorDefRef="Global.ButtonIndicatorIcon" RGBA="ABC5E3FF"/>
+                <Color Name="NumericTextActive"                     ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="NumericTextInactive"                   ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="LabelInactive"                         ColorDefRef="Global.LabelText" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="IndicatorControl">
+                <Color Name="ColorIndicator"                        ColorDefRef="Global.IndicatorBar" RGBA="2E629EFF"/>
+                <Color Name="Background"                            ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ValueTextColor"                        ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Title"                                 ColorDefRef="Global.LabelText" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="BaseStateButton">
+                <Color Name="Text"                                  ColorDefRef="Global.LabelText" RGBA="2E629EFF"/>
+                <Color Name="ActiveText"                            ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ActiveBackground"                      ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Window">
+                <Color Name="PreviewMixIn"                          ColorDefRef="SheetColor.PreviewMixIn" RGBA="4298FAFF"/>
+                <Color Name="EditMixIn"                             ColorDefRef="Global.DarkGreenIndicator" RGBA="081F3AFF"/>
+                <Color Name="EditMixInNotOwner"                     ColorDefRef="Global.DarkOrangeIndicator" RGBA="103D70FF"/>
+                <Color Name="Macros"                                ColorDefRef="PoolDefault.Macro" RGBA="103D70FF"/>
+                <Color Name="Quickeys"                              ColorDefRef="PoolDefault.Quickey" RGBA="142C46FF"/>
+                <Color Name="Plugins"                               ColorDefRef="PoolDefault.Plugin" RGBA="0E3562FF"/>
+                <Color Name="Menus"                                 ColorDefRef="PoolDefault.Menu" RGBA="0E3562FF"/>
+                <Color Name="Groups"                                ColorDefRef="PoolDefault.Group" RGBA="103D70FF"/>
+                <Color Name="Worlds"                                ColorDefRef="PoolDefault.World" RGBA="103D70FF"/>
+                <Color Name="Filters"                               ColorDefRef="PoolDefault.Filter" RGBA="12447EFF"/>
+                <Color Name="Sequences"                             ColorDefRef="PoolDefault.Sequence" RGBA="154F91FF"/>
+                <Color Name="Presets"                               ColorDefRef="PoolDefault.Preset" RGBA="103D70FF"/>
+                <Color Name="Pages"                                 ColorDefRef="PoolDefault.Page" RGBA="2E629EFF"/>
+                <Color Name="Configurations"                        ColorDefRef="PoolDefault.Configuration" RGBA="2E629EFF"/>
+                <Color Name="Handles"                               ColorDefRef="PoolDefault.Handle" RGBA="2E629EFF"/>
+                <Color Name="Images"                                ColorDefRef="PoolDefault.Image" RGBA="2E629EFF"/>
+                <Color Name="Appearances"                           ColorDefRef="PoolDefault.Appearance" RGBA="2E629EFF"/>
+                <Color Name="Scribbles"                             ColorDefRef="PoolDefault.Scribble" RGBA="2E629EFF"/>
+                <Color Name="Gobos"                                 ColorDefRef="PoolDefault.Gobo" RGBA="2E629EFF"/>
+                <Color Name="SmartView"                             ColorDefRef="PoolDefault.SmartView" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="PoolWindow">
+                <Color Name="Default"                               ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+                <Color Name="Views"                                 ColorDefRef="PoolDefault.View" RGBA="2E629EFF"/>
+                <Color Name="Macros"                                ColorDefRef="PoolDefault.Macro" RGBA="103D70FF"/>
+                <Color Name="Quickeys"                              ColorDefRef="PoolDefault.Quickey" RGBA="142C46FF"/>
+                <Color Name="Plugins"                               ColorDefRef="PoolDefault.Plugin" RGBA="0E3562FF"/>
+                <Color Name="Menus"                                 ColorDefRef="PoolDefault.Menu" RGBA="0E3562FF"/>
+                <Color Name="Groups"                                ColorDefRef="PoolDefault.Group" RGBA="103D70FF"/>
+                <Color Name="Shapes"                                ColorDefRef="PoolDefault.Shape" RGBA="103D70FF"/>
+                <Color Name="Worlds"                                ColorDefRef="PoolDefault.World" RGBA="103D70FF"/>
+                <Color Name="Filters"                               ColorDefRef="PoolDefault.Filter" RGBA="12447EFF"/>
+                <Color Name="Sequences"                             ColorDefRef="PoolDefault.Sequence" RGBA="154F91FF"/>
+                <Color Name="Presets"                               ColorDefRef="PoolDefault.Preset" RGBA="103D70FF"/>
+                <Color Name="PresetDimmer"                          ColorDefRef="PoolDefault.PresetDimmer" RGBA="103D70FF"/>
+                <Color Name="PresetPosition"                        ColorDefRef="PoolDefault.PresetPosition" RGBA="103D70FF"/>
+                <Color Name="PresetGobo"                            ColorDefRef="PoolDefault.PresetGobo" RGBA="103D70FF"/>
+                <Color Name="PresetColor"                           ColorDefRef="PoolDefault.PresetColor" RGBA="103D70FF"/>
+                <Color Name="PresetBeam"                            ColorDefRef="PoolDefault.PresetBeam" RGBA="103D70FF"/>
+                <Color Name="PresetFocus"                           ColorDefRef="PoolDefault.PresetFocus" RGBA="103D70FF"/>
+                <Color Name="PresetControl"                         ColorDefRef="PoolDefault.PresetControl" RGBA="103D70FF"/>
+                <Color Name="PresetShapers"                         ColorDefRef="PoolDefault.PresetShapers" RGBA="103D70FF"/>
+                <Color Name="PresetVideo"                           ColorDefRef="PoolDefault.PresetVideo" RGBA="103D70FF"/>
+                <Color Name="PresetDynamic"                         ColorDefRef="PoolDefault.PresetDynamic" RGBA="103D70FF"/>
+                <Color Name="PresetAll"                             ColorDefRef="PoolDefault.PresetAll" RGBA="103D70FF"/>
+                <Color Name="Pages"                                 ColorDefRef="PoolDefault.Page" RGBA="2E629EFF"/>
+                <Color Name="Configurations"                        ColorDefRef="PoolDefault.Configuration" RGBA="2E629EFF"/>
+                <Color Name="Handles"                               ColorDefRef="PoolDefault.Handle" RGBA="2E629EFF"/>
+                <Color Name="Images"                                ColorDefRef="PoolDefault.Image" RGBA="2E629EFF"/>
+                <Color Name="Videos"                                ColorDefRef="PoolDefault.Video" RGBA="2E629EFF"/>
+                <Color Name="Appearances"                           ColorDefRef="PoolDefault.Appearance" RGBA="2E629EFF"/>
+                <Color Name="Scribbles"                             ColorDefRef="PoolDefault.Scribble" RGBA="2E629EFF"/>
+                <Color Name="Gobos"                                 ColorDefRef="PoolDefault.Gobo" RGBA="2E629EFF"/>
+                <Color Name="Gels"                                  ColorDefRef="PoolDefault.Gels" RGBA="155196FF"/>
+                <Color Name="Matricks"                              ColorDefRef="PoolDefault.Matricks" RGBA="134987FF"/>
+                <Color Name="SmartView"                             ColorDefRef="PoolDefault.SmartView" RGBA="2E629EFF"/>
+                <Color Name="Timecodes"                             ColorDefRef="PoolDefault.Timecodes" RGBA="2E629EFF"/>
+                <Color Name="TimecodeSlots"                         ColorDefRef="PoolDefault.Timecodes" RGBA="2E629EFF"/>
+                <Color Name="Layouts"                               ColorDefRef="PoolDefault.Layouts" RGBA="2E629EFF"/>
+                <Color Name="Universes"                             ColorDefRef="PoolDefault.Universes" RGBA="2E629EFF"/>
+                <Color Name="Users"                                 ColorDefRef="PoolDefault.Users" RGBA="2E629EFF"/>
+                <Color Name="Sounds"                                ColorDefRef="PoolDefault.Sounds" RGBA="0F3766FF"/>
+                <Color Name="Filters"                               ColorDefRef="PoolDefault.Filter" RGBA="12447EFF"/>
+                <Color Name="Cameras"                               ColorDefRef="PoolDefault.Camera" RGBA="2E629EFF"/>
+                <Color Name="DataPools"                             ColorDefRef="PoolDefault.DataPool" RGBA="2E629EFF"/>
+                <Color Name="Meshes"                                ColorDefRef="PoolDefault.Mesh" RGBA="2E629EFF"/>
+                <Color Name="RenderQualities"                       ColorDefRef="PoolDefault.RenderQuality" RGBA="2E629EFF"/>
+                <Color Name="Materials"                             ColorDefRef="PoolDefault.Materials" RGBA="A5CEFDFF"/>
+                <Color Name="Generators"                            ColorDefRef="PoolDefault.Generators" RGBA="2789F9FF"/>
+                <Color Name="Bitmaps"                               ColorDefRef="PoolDefault.Bitmaps" RGBA="12457FFF"/>
+                <Color Name="Timers"                                ColorDefRef="PoolDefault.Timers" RGBA="2E629EFF"/>
+                <Color Name="EncoderBars"                           ColorDefRef="PoolDefault.EncoderBar" RGBA="2E629EFF"/>
+                <Color Name="Tags"                                  ColorDefRef="PoolDefault.Tags" RGBA="2E629EFF"/>
+                <Color Name="Filler"                                RGBA="A5CEFD33"/>
+                <Color Name="Recipes"                               RGBA="3792FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="Exec">
+                <Color Name="FaderLow"                              ColorDefRef="Playback.FaderBar" RGBA="E5EFFA80"/>
+                <Color Name="FaderHigh"                             ColorDefRef="Playback.FaderBar" RGBA="E5EFFA80"/>
+                <Color Name="FaderBackgroundLow"                    ColorDefRef="Playback.FaderBarBack" RGBA="E5EFFA40"/>
+                <Color Name="FaderBackgroundHigh"                   ColorDefRef="Playback.FaderBarBack" RGBA="E5EFFA40"/>
+                <Color Name="FaderFont"                             ColorDefRef="Playback.FaderBarText" RGBA="070F18FF"/>
+                <Color Name="CueTransition"                         ColorDefRef="Playback.ActiveCue" RGBA="1F85F9FF"/>
+                <Color Name="PlaybackIcon"                          ColorDefRef="Playback.On" RGBA="4298FAFF"/>
+                <Color Name="ExecuteIcon"                           ColorDefRef="Playback.FaderBarText" RGBA="070F18FF"/>
+                <Color Name="GroupMasterL0"                         ColorDefRef="Playback.FaderBar" RGBA="E5EFFA80"/>
+                <Color Name="GroupMasterL1"                         ColorDefRef="Playback.FaderBar" RGBA="E5EFFA80"/>
+                <Color Name="GroupMasterH0"                         ColorDefRef="Playback.FaderBarBack" RGBA="E5EFFA40"/>
+                <Color Name="GroupMasterH1"                         ColorDefRef="Playback.FaderBarBack" RGBA="E5EFFA40"/>
+                <Color Name="FaderAfterGlow"                        ColorDefRef="Global.AfterGlow"/>
+                <Color Name="EncoderAfterGlow"                      ColorDefRef="Global.AfterGlow"/>
+                <Color Name="KeyAfterGlow"                          ColorDefRef="Global.AfterGlow"/>
+                <Color Name="ConfigUnchanged"                       ColorDefRef="Global.IndicatorBar" RGBA="2E629EFF"/>
+                <Color Name="ConfigChanged"                         ColorDefRef="Global.UpdateIndicator" RGBA="4298FAFF"/>
+                <Color Name="NormalBackground"                      ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="FixedBackground"                       ColorDefRef="Global.Fixed" RGBA="185BA8FF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Bright" RGBA="ABC5E3FF"/>
+                <Color Name="TextShadow"                            ColorDefRef="Global.Shadow" RGBA="0000008D"/>
+                <Color Name="Disabled"                              ColorDefRef="Global.Disabled" RGBA="E5EFFA50"/>
+                <Color Name="DefaultCueBackground"                  ColorDefRef="Global.Transparent50" RGBA="00000080"/>
+                <Color Name="LoadedCueBackground"                   ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="LoadedCueText"                         ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="CurrentCueBorder"                      ColorDefRef="Global.IndicatorBar" RGBA="2E629EFF"/>
+                <Color Name="TitleText"                             ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TitleNumbers"                          ColorDefRef="Global.LabelText" RGBA="2E629EFF"/>
+                <Color Name="MinorTitleNumbers"                     RGBA="ABC5E3FF"/>
+                <Color Name="FaderMaster"                           ColorDefRef="SheetColor.TextPlaybackTracked" RGBA="103D70FF"/>
+                <Color Name="FaderSpeed"                            ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="FaderRate"                             ColorDefRef="SheetColor.Fade" RGBA="103D70FF"/>
+                <Color Name="TextDark"                              ColorDefRef="Global.TextDark" RGBA="070F18FF"/>
+                <Color Name="EditMixIn"                             ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="FaderFlashedUp"                        ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="FaderFlashedDown"                      ColorDefRef="Global.DarkRedIndicator" RGBA="081F3AFF"/>
+                <Color Name="FaderErrorGlow"                        ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="TextBright"                            ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="GrandMasterActive"                     RGBA="0E3460FF"/>
+                <Color Name="BlipBackground"                        RGBA="070F18FF"/>
+                <Color Name="BlipActive"                            RGBA="144C8CFF"/>
+                <Color Name="BlipPaused"                            RGBA="144C8CFF"/>
+                <Color Name="InactiveBackground"                    RGBA="ABC5E3FF"/>
+            </ColorGroup>
+            <ColorGroup Name="PlaybackState">
+                <Color Name="Off"                                   ColorDefRef="Playback.Off" RGBA="070F18FF"/>
+                <Color Name="Paused"                                ColorDefRef="Playback.Paused" RGBA="4298FAFF"/>
+                <Color Name="Forwards"                              ColorDefRef="Playback.Forwards" RGBA="4298FAFF"/>
+                <Color Name="Backwards"                             ColorDefRef="Playback.Backwards" RGBA="4298FAFF"/>
+                <Color Name="FastForwards"                          ColorDefRef="Playback.FastForwards" RGBA="4298FAFF"/>
+                <Color Name="FastBackwards"                         ColorDefRef="Playback.FastBackwards" RGBA="4298FAFF"/>
+                <Color Name="Recording"                             ColorDefRef="Playback.Recording" RGBA="4298FAFF"/>
+                <Color Name="On"                                    ColorDefRef="Playback.On" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="CrossFade">
+                <Color Name="Inactive"                              RGBA="4298FA80"/>
+                <Color Name="ReturnedDown"                          RGBA="4298FA80"/>
+                <Color Name="Reload"                                RGBA="4298FA80"/>
+                <Color Name="WaitUp"                                RGBA="4298FA80"/>
+                <Color Name="ActiveUp"                              RGBA="6EB0FB80"/>
+                <Color Name="WaitDown"                              RGBA="6EB0FB80"/>
+                <Color Name="ActiveDown"                            RGBA="4298FA80"/>
+                <Color Name="FinishedUp"                            RGBA="4298FA80"/>
+                <Color Name="FinishedDown"                          RGBA="4298FA80"/>
+            </ColorGroup>
+            <ColorGroup Name="PoolButton">
+                <Color Name="Icon"                                  ColorDefRef="Global.ButtonIndicatorIcon" RGBA="ABC5E3FF"/>
+                <Color Name="DefaultBackgroundFadeBar"              ColorDefRef="Playback.FaderBarBack" RGBA="E5EFFA40"/>
+                <Color Name="DefaultForegroundFadeBar"              ColorDefRef="Playback.FaderBar" RGBA="E5EFFA80"/>
+                <Color Name="DefaultBackgroundChart"                ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="BackgroundCueFadeBar"                  ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="UserLocked"                            ColorDefRef="Global.OrangeIndicator" RGBA="3390FAFF"/>
+                <Color Name="PositionLocked"                        RGBA="2E629EFF"/>
+                <Color Name="SystemLocked"                          ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="Selected"                              ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="Update"                                ColorDefRef="Global.UpdateIndicator" RGBA="4298FAFF"/>
+                <Color Name="UpdateAdd"                             ColorDefRef="Global.UpdateAddIndicator" RGBA="6EB0FBFF"/>
+                <Color Name="UpdateIntegrated"                      ColorDefRef="Global.UpdateIntegrated" RGBA="4298FAFF"/>
+                <Color Name="UpdateAddIntegrated"                   ColorDefRef="Global.UpdateAddIntegrated" RGBA="99C8FCFF"/>
+                <Color Name="UpdateFront"                           RGBA="183453FF"/>
+                <Color Name="UpdateBack"                           />
+                <Color Name="UpdateBackground"                      RGBA="070F18AA"/>
+                <Color Name="UpdatePreset"                          RGBA="4298FAFF"/>
+                <Color Name="UpdateSequence"                        RGBA="3993FAFF"/>
+                <Color Name="InputFilter"                           ColorDefRef="PoolDefault.Filter" RGBA="12447EFF"/>
+                <Color Name="Global"                                ColorDefRef="Global.GlobalPreset" RGBA="3390FAFF"/>
+                <Color Name="Selective"                             ColorDefRef="Global.SelectivePreset" RGBA="4298FAFF"/>
+                <Color Name="Universal"                             ColorDefRef="Global.UniversalPreset" RGBA="ABC5E3FF"/>
+                <Color Name="Matricks"                              ColorDefRef="Global.Cooked" RGBA="99C8FCFF"/>
+                <Color Name="GridPos"                               RGBA="4298FAFF"/>
+                <Color Name="Cooking"                               ColorDefRef="Global.Cooked" RGBA="99C8FCFF"/>
+                <Color Name="OutputFilter"                          ColorDefRef="PoolDefault.Filter" RGBA="12447EFF"/>
+                <Color Name="SharedData"                            ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="MultiStep"                             ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="Preset"                                ColorDefRef="SheetColor.PresetText" RGBA="4298FAFF"/>
+                <Color Name="Integrated"                            ColorDefRef="SheetColor.Integrated" RGBA="103D70FF"/>
+                <Color Name="Referenced"                            ColorDefRef="Global.Referenced" RGBA="4298FAFF"/>
+                <Color Name="Empty"                                 ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="ForNone"                               ColorDefRef="Global.ForNone" RGBA="E5EFFAA0"/>
+                <Color Name="ForSome"                               ColorDefRef="Global.ForSome" RGBA="4298FAFF"/>
+                <Color Name="ForAll"                                ColorDefRef="Global.ForAll" RGBA="4298FAFF"/>
+                <Color Name="XLR"                                   ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="NDI"                                   RGBA="2E629EFF"/>
+                <Color Name="NDI_Active"                            RGBA="99C8FCFF"/>
+                <Color Name="CLI"                                   RGBA="99C8FCFF"/>
+                <Color Name="ValuesModeDefault"                     ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="AbsoluteValue"                         ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="RelativeValue"                         ColorDefRef="SheetColor.Relative" RGBA="2488F9FF"/>
+                <Color Name="ActivePlayback"                        ColorDefRef="Playback.Forwards" RGBA="4298FAFF"/>
+                <Color Name="PausePlayback"                         ColorDefRef="Playback.Paused" RGBA="4298FAFF"/>
+                <Color Name="BackwardsPlayback"                     ColorDefRef="Playback.Backwards" RGBA="4298FAFF"/>
+                <Color Name="RecordingPlayback"                     ColorDefRef="Playback.Recording" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="GroupMaster">
+                <Color Name="Positive"                              ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="Negative"                              ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="Scaling"                               ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="Additive"                              ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="Slot"                                  ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="Upper"                                 ColorDefRef="Playback.Forwards" RGBA="4298FAFF"/>
+                <Color Name="Lower"                                 ColorDefRef="Playback.White50" RGBA="E5EFFA80"/>
+                <Color Name="IndicatorBar"                          ColorDefRef="Global.IndicatorBar" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="PresetButton">
+                <Color Name="Empty"                                 ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="ForNone"                               ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+                <Color Name="ForSome"                               ColorDefRef="Global.ForSome" RGBA="4298FAFF"/>
+                <Color Name="ForAll"                                ColorDefRef="Global.ForAll" RGBA="4298FAFF"/>
+                <Color Name="FeatureGroupIndicatorBackground"       ColorDefRef="Global.BackgroundDark" RGBA="070F18FF"/>
+                <Color Name="ActiveFeatureGroupIndicator"           ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="InactiveFeatureGroupIndicator"         ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="FeatureGroupIndicatorDifferentWorld"   ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="TextConnectedCount"                    ColorDefRef="Global.Referenced" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="CheckBox">
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TextBackground"                        ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="FixedBackground"                       ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="FixedText"                             ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="HeaderBackground"                      ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="HeaderAltBackground"                   ColorDefRef="Global.AltHeader" RGBA="162F4CFF"/>
+                <Color Name="HeaderText"                            ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="SelectedBackground"                    ColorDefRef="Global.SelectedFrameBackground" RGBA="0D3059FF"/>
+                <Color Name="SelectedText"                          ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="NoCellBackground"                      ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="ReadOnlyBackground"                    ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="ReadOnlyAltBackground"                 ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="ReadOnlyText"                          ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="DefaultValue"                          ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="DefaultCellBackground"                 ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="DefaultCellAltBackground"              ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="DefaultCellText"                       ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="LevelButtonIcon"                       RGBA="142B45FF"/>
+                <Color Name="ScrollCellFrame"                       ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Lasso"                                 ColorDefRef="Global.Lasso" RGBA="16549AFF"/>
+                <Color Name="ChildFreeIcon"                         ColorDefRef="Global.TextDark" RGBA="070F18FF"/>
+                <Color Name="SelectedChildrenIcon"                  ColorDefRef="Global.SelectedFrameBackground" RGBA="0D3059FF"/>
+            </ColorGroup>
+            <ColorGroup Name="ScrollBar">
+                <Color Name="Background"                            ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="Divider"                               ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Fader">
+                <Color Name="Headline"                              ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Knob"                                  ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="KnobFlashedUp"                         ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="KnobFlashedDown"                       ColorDefRef="Global.DarkRedIndicator" RGBA="081F3AFF"/>
+                <Color Name="Slot"                                  ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="Upper"                                 ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="Lower"                                 ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="On"                                    ColorDefRef="Global.GreenIndicator" RGBA="185BA8FF"/>
+                <Color Name="Off"                                   ColorDefRef="Global.IndicatorBar" RGBA="2E629EFF"/>
+                <Color Name="AlwaysOn"                             />
+                <Color Name="Disabled"                              ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="BandFader">
+                <Color Name="Knob"                                  RGBA="1D3F65FF"/>
+                <Color Name="Background"                            RGBA="070F1880"/>
+                <Color Name="StripActive"                           RGBA="183352FF"/>
+                <Color Name="StripInactive"                         RGBA="183352FF"/>
+                <Color Name="TextActive"                            ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TextInactive"                          ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="FaderLocked"                           RGBA="1D3F65FF"/>
+            </ColorGroup>
+            <ColorGroup Name="LineEdit">
+                <Color Name="Background"                            ColorDefRef="Global.BackgroundDark" RGBA="070F18FF"/>
+                <Color Name="TextSelectionBackground"               ColorDefRef="Global.SelectedFrameBackground" RGBA="0D3059FF"/>
+                <Color Name="TextMessage"                           ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="ScrollTrack"                           ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="ScrollButton"                          ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="BackgroundText"                        RGBA="E5EFFA80"/>
+                <Color Name="LineNumberNormal"                      ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="LineNumberSelected"                    ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="LineNumberBackground"                  ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="SelectedLineRect"                      RGBA="132942FF"/>
+            </ColorGroup>
+            <ColorGroup Name="CmdlineEdit">
+                <Color Name="LinkedBackgroundAdd"                   RGBA="081F3AFF"/>
+            </ColorGroup>
+            <ColorGroup Name="UIGrid">
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="TextBackground"                        ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="FixedBackground"                       ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="FixedText"                             ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="HeaderBackground"                      ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="HeaderAltBackground"                   ColorDefRef="Global.AltHeader" RGBA="162F4CFF"/>
+                <Color Name="HeaderText"                            ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="SelectedBackground"                    ColorDefRef="Global.SelectedFrameBackground" RGBA="0D3059FF"/>
+                <Color Name="SelectedText"                          ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="NoCellBackground"                      ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="ReadOnlyBackground"                    ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="ReadOnlyAltBackground"                 ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="ReadOnlyText"                          ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="DefaultValue"                          ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="Disabled"                              ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="DefaultCellBackground"                 ColorDefRef="Global.DefaultCellBackground" RGBA="1E406780"/>
+                <Color Name="DefaultCellAltBackground"              ColorDefRef="Global.DefaultCellAltBackground" RGBA="18345380"/>
+                <Color Name="DefaultCellText"                       ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="LevelButtonIcon"                       ColorDefRef="Global.Icon" RGBA="E5EFFAFF"/>
+                <Color Name="ScrollCellFrame"                       ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Lasso"                                 ColorDefRef="Global.Lasso" RGBA="16549AFF"/>
+                <Color Name="ChildFreeIcon"                         ColorDefRef="Global.TextDark" RGBA="070F18FF"/>
+                <Color Name="SelectedChildrenIcon"                  ColorDefRef="Global.SelectedFrameBackground" RGBA="0D3059FF"/>
+                <Color Name="SelectedRowBorder"                     ColorDefRef="Global.SelectedRowBorder" RGBA="4298FAFF"/>
+                <Color Name="ResizeLine"                            ColorDefRef="Global.TransparentWhite" RGBA="FFFFFF66"/>
+                <Color Name="UserFilterHiddenFactor"                RGBA="99C8FCFF"/>
+                <Color Name="ActiveBackground"                      RGBA="081F3AFF"/>
+                <Color Name="SubColumnIndicator"                    RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="DBObjectGrid">
+                <Color Name="WrongText"                             ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="WrongBackground"                       ColorDefRef="Global.RedBackground" RGBA="114075FF"/>
+                <Color Name="WarningText"                           ColorDefRef="Global.Warning" RGBA="4298FAFF"/>
+                <Color Name="WarningBackground"                     ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="SelectedItemText"                      ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="DefaultItemBackground"                 ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="DefaultItemText"                       ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="EmptyItemBackground"                   ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="EmptyItemText"                         ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="CutBackground"                         ColorDefRef="Global.RedBackground" RGBA="114075FF"/>
+                <Color Name="MergedParentSeparator"                 ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="UITab">
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="SelectedBackground"                    RGBA="13294280"/>
+                <Color Name="SelectedText"                          ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="AdditionalInfoText"                    ColorDefRef="Global.ButtonAdditionalText" RGBA="185BA8FF"/>
+                <Color Name="ButtonBackground"                      ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Divider"                               ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="ArrowBackground"                       ColorDefRef="Global.BackgroundSelected" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Popup">
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="SelectedItemBackground"                ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="SelectedItemText"                      ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="DefaultItemBackground"                 ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="DefaultItemText"                       ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="EmptyItemBackground"                   ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="EmptyItemText"                         ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="Progress">
+                <Color Name="BarLeft"                               RGBA="99C8FCFF"/>
+                <Color Name="BarRight"                              RGBA="103D70FF"/>
+                <Color Name="Text"                                 />
+                <Color Name="BackgroundBarLeft"                     RGBA="99C8FC40"/>
+                <Color Name="BackgroundBarRight"                    RGBA="103D7040"/>
+                <Color Name="BackgroundText"                       />
+                <Color Name="BackgroundFrame"                       RGBA="070F1840"/>
+                <Color Name="NotCancellable"                       />
+                <Color Name="CancelBarLeft"                         RGBA="59A5FB40"/>
+                <Color Name="CancelBarRight"                        RGBA="103D7040"/>
+                <Color Name="CancelText"                           />
+            </ColorGroup>
+            <ColorGroup Name="2DView">
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="Text"                                  ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="Grid"                                  ColorDefRef="Global.SelectedFrameBackground" RGBA="0D3059FF"/>
+                <Color Name="BackgroundPatched1"                    ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="TextPatched2"                          ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="BackgroundPatched2"                    ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="TextSelected1"                         ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="BackgroundSelected1"                   ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="TextSelected2"                         ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+                <Color Name="BackgroundSelected2"                   ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="3DView">
+                <Color Name="ArrangementOctaederValid"              RGBA="4298FAFF"/>
+                <Color Name="ArrangementOctaederEmpty"              RGBA="E5EFFA7F"/>
+                <Color Name="ArrangementOctaederMissing"            RGBA="4298FAFF"/>
+                <Color Name="BoundingBoxObjectOuter"               />
+                <Color Name="BoundingBoxObjectInner"                RGBA="4298FAFF"/>
+                <Color Name="BackgroundPartlySelected"              ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="MeshError"                             RGBA="4298FAFF"/>
+                <Color Name="Wireframed"                            RGBA="2E629EFF"/>
+                <Color Name="Unpatched"                             RGBA="4298FAFF"/>
+                <Color Name="SelectionClassical"                    RGBA="4298FAFF"/>
+                <Color Name="SelectionPlanar"                       RGBA="4298FAFF"/>
+                <Color Name="SelectionProjection"                   RGBA="4298FAFF"/>
+                <Color Name="SelectionUndefined"                   />
+            </ColorGroup>
+            <ColorGroup Name="DeskLock">
+                <Color Name="Background"                            ColorDefRef="Global.DeskLock" RGBA="4298FA81"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TextSelected"                          ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="BackgroundSelected"                    ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="TextPartlySelected"                    ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+                <Color Name="BackgroundPartlySelected"              ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="DmxSheetHeader">
+                <Color Name="Text"                                  ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="Background"                            ColorDefRef="Global.Header" RGBA="102237FF"/>
+            </ColorGroup>
+            <ColorGroup Name="DmxSheetFixed">
+                <Color Name="TextAddress"                           ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="BackgroundAddress"                     ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="TextAddress2"                          ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="BackgroundAddress2"                    ColorDefRef="Global.AltHeader" RGBA="162F4CFF"/>
+            </ColorGroup>
+            <ColorGroup Name="DmxSheetCell">
+                <Color Name="TextNotPatched"                        ColorDefRef="Global.Disabled" RGBA="E5EFFA50"/>
+                <Color Name="BackgroundNotPatched"                  ColorDefRef="Global.Transparent50" RGBA="00000080"/>
+                <Color Name="TextPatched1"                          ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="BackgroundPatched1"                    RGBA="1F436C80"/>
+                <Color Name="TextPatched2"                          ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="BackgroundPatched2"                    RGBA="13294280"/>
+                <Color Name="TextSelected"                          ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="BackgroundSelected"                    ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="TextSelectedInverted"                  ColorDefRef="Global.SelectedInverted" RGBA="99C8FCFF"/>
+                <Color Name="BackgroundSelectedInverted"            ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="TextPartlySelected"                    ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+                <Color Name="BackgroundPartlySelected"              ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="TextNotRequested"                      ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="BackgroundNotRequested"                ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="BackgroundUniverse"                    RGBA="E5EFFAA0"/>
+                <Color Name="BackgroundLevelbar"                    ColorDefRef="Global.GreenIndicator" RGBA="185BA8FF"/>
+                <Color Name="TextParked"                            ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="BackgroundParked"                      ColorDefRef="Global.Parked" RGBA="4298FAFF"/>
+                <Color Name="TextDmxTest"                           ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="BackgroundDmxTest"                     ColorDefRef="Global.DmxTest"/>
+            </ColorGroup>
+            <ColorGroup Name="ProgLayer">
+                <Color Name="Auto"                                  ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="Fade"                                  ColorDefRef="SheetColor.Fade" RGBA="103D70FF"/>
+                <Color Name="Delay"                                 ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="Speed"                                 ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="SpeedMaster"                           ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="Phase"                                 ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="Transition"                            ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="Width"                                 ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="Measure"                               ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="NShot"                                 ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="GridPos"                               ColorDefRef="SheetColor.GridPos" RGBA="0A2543FF"/>
+                <Color Name="Absolute"                              ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="Relative"                              ColorDefRef="SheetColor.Relative" RGBA="2488F9FF"/>
+                <Color Name="Accel"                                 ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="Decel"                                 ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="CueAbs"                                ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="CueRel"                                ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="SequID"                                ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="TextActive"                            ColorDefRef="SheetColor.TextActive" RGBA="E5EFFAFF"/>
+                <Color Name="BackgroundActiveFade"                  ColorDefRef="SheetColor.Fade" RGBA="103D70FF"/>
+                <Color Name="BackgroundActiveDelay"                 ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="BackgroundActiveSpeed"                 RGBA="4399FAFF"/>
+                <Color Name="BackgroundActiveSpeedMaster"           RGBA="4399FAFF"/>
+                <Color Name="BackgroundActivePhase"                 RGBA="4399FAFF"/>
+                <Color Name="BackgroundActiveMeasure"               RGBA="4399FAFF"/>
+                <Color Name="BackgroundActiveNShot"                 RGBA="4399FAFF"/>
+                <Color Name="BackgroundActiveGridPos"               ColorDefRef="SheetColor.GridPosText" RGBA="134986FF"/>
+                <Color Name="BackgroundActiveAbsolute"              ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="BackgroundActiveRelative"              ColorDefRef="SheetColor.Relative" RGBA="2488F9FF"/>
+                <Color Name="BackgroundActiveAccel"                 RGBA="16559DFF"/>
+                <Color Name="BackgroundActiveDecel"                 RGBA="16559DFF"/>
+                <Color Name="BackgroundActiveTransition"            RGBA="4399FAFF"/>
+                <Color Name="BackgroundActiveWidth"                 RGBA="4399FAFF"/>
+                <Color Name="TextOtherUser"                         ColorDefRef="SheetColor.TextOtherUser" RGBA="070F18FF"/>
+                <Color Name="BackgroundOtherUser"                   ColorDefRef="SheetColor.OtherUser" RGBA="2E629EFF"/>
+                <Color Name="TextPlayback"                          ColorDefRef="SheetColor.TextPlayback" RGBA="185BA8FF"/>
+                <Color Name="BackgroundPlayback"                    ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextPlaybackOther"                     ColorDefRef="SheetColor.TextOtherPlayback" RGBA="185BA8FF"/>
+                <Color Name="BackgroundPlaybackOther"               ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextProgOther"                         ColorDefRef="SheetColor.TextOtherProgrammer" RGBA="E5EFFAFF"/>
+                <Color Name="BackgroundProgOther"                   ColorDefRef="SheetColor.BackgroundOtherProgrammer" RGBA="2E629EFF"/>
+                <Color Name="TextSelectedPlayback"                  ColorDefRef="SheetColor.TextSelectedPlayback" RGBA="4298FAFF"/>
+                <Color Name="BackgroundSelectedPlayback"            ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+            </ColorGroup>
+            <ColorGroup Name="GroupedProgLayerActive">
+                <Color Name="Fade"                                  ColorDefRef="SheetColor.FadeText" RGBA="1F85F9FF"/>
+                <Color Name="Delay"                                 ColorDefRef="SheetColor.DelayText" RGBA="4298FAFF"/>
+                <Color Name="Phaser"                                ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="Absolute"                              ColorDefRef="SheetColor.AbsoluteText" RGBA="2B8BFAFF"/>
+                <Color Name="Relative"                              ColorDefRef="SheetColor.RelativeText" RGBA="81BAFCFF"/>
+                <Color Name="PresetAbs"                             ColorDefRef="SheetColor.PresetText" RGBA="4298FAFF"/>
+                <Color Name="PresetRel"                             ColorDefRef="SheetColor.RelPresetText" RGBA="1F85F9FF"/>
+                <Color Name="Parked"                                ColorDefRef="Global.Parked" RGBA="4298FAFF"/>
+                <Color Name="DmxTest"                               ColorDefRef="Global.DmxTest"/>
+            </ColorGroup>
+            <ColorGroup Name="GroupedProgLayerHas">
+                <Color Name="Fade"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Delay"                                 ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Phaser"                                ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Absolute"                              ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Relative"                              ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="PresetAbs"                             ColorDefRef="SheetColor.PresetText" RGBA="4298FAFF"/>
+                <Color Name="PresetRel"                             ColorDefRef="SheetColor.RelPresetText" RGBA="1F85F9FF"/>
+                <Color Name="Parked"                                ColorDefRef="Global.Parked" RGBA="4298FAFF"/>
+                <Color Name="DmxTest"                               ColorDefRef="Global.DmxTest"/>
+            </ColorGroup>
+            <ColorGroup Name="TrackProgLayerActive">
+                <Color Name="Fade"                                  ColorDefRef="SheetColor.FadeText" RGBA="1F85F9FF"/>
+                <Color Name="Delay"                                 ColorDefRef="SheetColor.DelayText" RGBA="4298FAFF"/>
+                <Color Name="Phaser"                                ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="Absolute"                              ColorDefRef="SheetColor.AbsoluteText" RGBA="2B8BFAFF"/>
+                <Color Name="Relative"                              ColorDefRef="SheetColor.RelativeText" RGBA="81BAFCFF"/>
+                <Color Name="PresetAbs"                             ColorDefRef="SheetColor.PresetText" RGBA="4298FAFF"/>
+                <Color Name="PresetRel"                             ColorDefRef="SheetColor.RelPresetText" RGBA="1F85F9FF"/>
+                <Color Name="Parked"                                ColorDefRef="Global.Parked" RGBA="4298FAFF"/>
+                <Color Name="DmxTest"                               ColorDefRef="Global.DmxTest"/>
+            </ColorGroup>
+            <ColorGroup Name="TrackProgLayerHas">
+                <Color Name="Fade"                                  ColorDefRef="SheetColor.FadeText" RGBA="1F85F9FF"/>
+                <Color Name="Delay"                                 ColorDefRef="SheetColor.DelayText" RGBA="4298FAFF"/>
+                <Color Name="Phaser"                                ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="Absolute"                              ColorDefRef="SheetColor.AbsoluteText" RGBA="2B8BFAFF"/>
+                <Color Name="Relative"                              ColorDefRef="SheetColor.RelativeText" RGBA="81BAFCFF"/>
+                <Color Name="PresetAbs"                             ColorDefRef="SheetColor.PresetText" RGBA="4298FAFF"/>
+                <Color Name="PresetRel"                             ColorDefRef="SheetColor.RelPresetText" RGBA="1F85F9FF"/>
+                <Color Name="Parked"                                ColorDefRef="Global.Parked" RGBA="4298FAFF"/>
+                <Color Name="DmxTest"                               ColorDefRef="Global.DmxTest"/>
+            </ColorGroup>
+            <ColorGroup Name="TrackSheet">
+                <Color Name="ReleaseSeparator"                      ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="AssertSeparator"                       ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TrackingDistance"                      ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="FullBreak"                             ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="FilteredBreak"                         ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="HeaderHintColor"                       ColorDefRef="Global.Warning" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="ColumnSetGrid">
+                <Color Name="Separator"                             ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="FixtureSheetHeader">
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TextSelected"                          ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedInverted"                  ColorDefRef="Global.SelectedInverted" RGBA="99C8FCFF"/>
+                <Color Name="TextPartlySelected"                    ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+                <Color Name="Background"                            ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="BackgroundSelected"                    ColorDefRef="Global.BackgroundSelected" RGBA="183453FF"/>
+                <Color Name="BackgroundSelectedInverted"            ColorDefRef="Global.BackgroundSelectedInverted" RGBA="132942FF"/>
+                <Color Name="BackgroundPartlySelected"              ColorDefRef="Global.BackgroundSelected" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="FixtureSheetFixed">
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Background"                            ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="TextSelected"                          ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedInverted"                  ColorDefRef="Global.SelectedInverted" RGBA="99C8FCFF"/>
+                <Color Name="TextPartlySelected"                    ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+                <Color Name="BackgroundSelected"                    ColorDefRef="Global.BackgroundSelected" RGBA="183453FF"/>
+                <Color Name="BackgroundSelectedInverted"            ColorDefRef="Global.BackgroundSelectedInverted" RGBA="132942FF"/>
+                <Color Name="BackgroundPartlySelected"              ColorDefRef="Global.BackgroundSelected" RGBA="183453FF"/>
+                <Color Name="TextInvalidGridPosition"               ColorDefRef="Global.InvalidGridPosition" RGBA="99C8FCFF"/>
+                <Color Name="BackgroundInvalidGridPosition"         ColorDefRef="Global.BackgroundInvalidGridPosition" RGBA="183453FF"/>
+                <Color Name="TextMainMultiPatchSelected"            ColorDefRef="Global.MainMultiPatchSelected" RGBA="A5CEFDFF"/>
+                <Color Name="BackgroundMainMultiPatchSelected"      ColorDefRef="Global.BackgroundMainMultiPatchSelected" RGBA="102237FF"/>
+                <Color Name="TextSelectedEdge"                      ColorDefRef="Global.SelectedEdge" RGBA="A5CEFDFF"/>
+                <Color Name="BackgroundSelectedEdge"                ColorDefRef="Global.BackgroundSelectedInverted" RGBA="132942FF"/>
+            </ColorGroup>
+            <ColorGroup Name="FixtureSheetCell">
+                <Color Name="MIBActive"                             ColorDefRef="SheetColor.BackMIB" RGBA="0B2B4FFF"/>
+                <Color Name="GroupMasterActive"                     ColorDefRef="SheetColor.GroupMasterActive" RGBA="092442FF"/>
+                <Color Name="AdditiveMasterActive"                  ColorDefRef="SheetColor.AdditiveMasterActive" RGBA="2286F9FF"/>
+                <Color Name="MasterReactionNone"                    ColorDefRef="Global.IndicatorBar" RGBA="2E629EFF"/>
+                <Color Name="MasterReactionGroup"                   RGBA="4298FAFF"/>
+                <Color Name="GlobalData"                            ColorDefRef="Global.GlobalPreset" RGBA="3390FAFF"/>
+                <Color Name="TextNone"                              ColorDefRef="SheetColor.Text" RGBA="2E629EFF"/>
+                <Color Name="BackgroundNone"                        ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextUpdateValue"                       ColorDefRef="SheetColor.Update" RGBA="4298FAFF"/>
+                <Color Name="TextNotAvailable"                      ColorDefRef="SheetColor.NotAvailable" RGBA="4298FA88"/>
+                <Color Name="InTransition"                          RGBA="0C2E54FF"/>
+                <Color Name="SymbolsBackground"                     ColorDefRef="Global.BackgroundDark" RGBA="070F18FF"/>
+                <Color Name="SymbolsForeground"                     ColorDefRef="Global.OrangeIndicator" RGBA="3390FAFF"/>
+                <Color Name="SymbolsFrame"                          ColorDefRef="Global.TransparentWhite25" RGBA="FFFFFF40"/>
+                <Color Name="FullyCookedIndicator"                  ColorDefRef="Global.Cooked" RGBA="99C8FCFF"/>
+                <Color Name="TextProgValueFade"                     ColorDefRef="SheetColor.FadeText" RGBA="1F85F9FF"/>
+                <Color Name="TextProgValueDelay"                    ColorDefRef="SheetColor.DelayText" RGBA="4298FAFF"/>
+                <Color Name="TextProgValuePhase"                    ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextProgValueMeasure"                  ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextProgValueNShot"                    ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextProgValueSpeed"                    ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextProgValueSpeedMaster"              ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextProgValueGridPos"                  ColorDefRef="SheetColor.GridPosText" RGBA="134986FF"/>
+                <Color Name="TextProgValueAbsolute"                 ColorDefRef="SheetColor.AbsoluteText" RGBA="2B8BFAFF"/>
+                <Color Name="TextProgValueRelative"                 ColorDefRef="SheetColor.RelativeText" RGBA="81BAFCFF"/>
+                <Color Name="TextProgValueAccel"                    ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextProgValueDecel"                    ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextProgValueTransition"               ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextProgValueWidth"                    ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextProgValueCueAbs"                   ColorDefRef="SheetColor.IDText" RGBA="2E629EFF"/>
+                <Color Name="TextProgValueCueRel"                   ColorDefRef="SheetColor.IDText" RGBA="2E629EFF"/>
+                <Color Name="TextProgValueSequID"                   ColorDefRef="SheetColor.IDText" RGBA="2E629EFF"/>
+                <Color Name="TextProgValueOutput"                   ColorDefRef="SheetColor.AbsoluteText" RGBA="2B8BFAFF"/>
+                <Color Name="TextProgValueDMX"                      ColorDefRef="SheetColor.AbsoluteText" RGBA="2B8BFAFF"/>
+                <Color Name="BackgroundProgValue"                   ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextProgPreset"                        ColorDefRef="SheetColor.AbsoluteText" RGBA="2B8BFAFF"/>
+                <Color Name="BackgroundProgPreset"                  ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextProgIntegrated"                    ColorDefRef="SheetColor.IntegratedText" RGBA="4298FAFF"/>
+                <Color Name="BackgroundProgIntegrated"              ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextActiveValue"                       ColorDefRef="SheetColor.TextActive" RGBA="E5EFFAFF"/>
+                <Color Name="BackgroundActiveValueFade"             ColorDefRef="SheetColor.Fade" RGBA="103D70FF"/>
+                <Color Name="BackgroundActiveValueDelay"            ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="BackgroundActiveValueSpeed"            ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveValueSpeedMaster"      ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveValuePhase"            ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveValueMeasure"          ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveValueNShot"            ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveValueGridPos"          ColorDefRef="SheetColor.GridPos" RGBA="0A2543FF"/>
+                <Color Name="BackgroundActiveValueAbsolute"         ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="BackgroundActiveValueRelative"         ColorDefRef="SheetColor.Relative" RGBA="2488F9FF"/>
+                <Color Name="BackgroundActiveValueAccel"            ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveValueDecel"            ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveValueTransition"       ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveValueWidth"            ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveValueCueAbs"           ColorDefRef="SheetColor.ID" RGBA="1F436CFF"/>
+                <Color Name="BackgroundActiveValueCueRel"           ColorDefRef="SheetColor.ID" RGBA="1F436CFF"/>
+                <Color Name="BackgroundActiveValueSequID"           ColorDefRef="SheetColor.ID" RGBA="1F436CFF"/>
+                <Color Name="BackgroundActiveValueOutput"           ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="BackgroundActiveValueDMX"              ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="TextActivePreset"                      ColorDefRef="SheetColor.PresetText" RGBA="4298FAFF"/>
+                <Color Name="BackgroundActivePresetFade"            ColorDefRef="SheetColor.Fade" RGBA="103D70FF"/>
+                <Color Name="BackgroundActivePresetDelay"           ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="BackgroundActivePresetSpeed"           ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActivePresetSpeedMaster"     ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActivePresetPhase"           ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActivePresetMeasure"         ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActivePresetNShot"           ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActivePresetGridPos"         ColorDefRef="SheetColor.GridPos" RGBA="0A2543FF"/>
+                <Color Name="BackgroundActivePresetAbsolute"        ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="BackgroundActivePresetRelative"        ColorDefRef="SheetColor.Relative" RGBA="2488F9FF"/>
+                <Color Name="BackgroundActivePresetAccel"           ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActivePresetDecel"           ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActivePresetTransition"      ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActivePresetWidth"           ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActivePresetCueAbs"          ColorDefRef="SheetColor.ID" RGBA="1F436CFF"/>
+                <Color Name="BackgroundActivePresetCueRel"          ColorDefRef="SheetColor.ID" RGBA="1F436CFF"/>
+                <Color Name="BackgroundActivePresetSequID"          ColorDefRef="SheetColor.ID" RGBA="1F436CFF"/>
+                <Color Name="BackgroundActivePresetOutput"          ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="BackgroundActivePresetDMX"             ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="TextActiveIntegrated"                  ColorDefRef="SheetColor.IntegratedText" RGBA="4298FAFF"/>
+                <Color Name="BackgroundActiveIntegratedFade"        ColorDefRef="SheetColor.Fade" RGBA="103D70FF"/>
+                <Color Name="BackgroundActiveIntegratedDelay"       ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="BackgroundActiveIntegratedSpeed"       ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveIntegratedSpeedMaster" ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveIntegratedPhase"       ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveIntegratedMeasure"     ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveIntegratedNShot"       ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveIntegratedGridPos"     ColorDefRef="SheetColor.GridPos" RGBA="0A2543FF"/>
+                <Color Name="BackgroundActiveIntegratedAbsolute"    ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="BackgroundActiveIntegratedRelative"    ColorDefRef="SheetColor.Relative" RGBA="2488F9FF"/>
+                <Color Name="BackgroundActiveIntegratedAccel"       ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveIntegratedDecel"       ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveIntegratedTransition"  ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveIntegratedWidth"       ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="BackgroundActiveIntegratedCueAbs"      ColorDefRef="SheetColor.ID" RGBA="1F436CFF"/>
+                <Color Name="BackgroundActiveIntegratedCueRel"      ColorDefRef="SheetColor.ID" RGBA="1F436CFF"/>
+                <Color Name="BackgroundActiveIntegratedSequID"      ColorDefRef="SheetColor.ID" RGBA="1F436CFF"/>
+                <Color Name="BackgroundActiveIntegratedOutput"      ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="BackgroundActiveIntegratedDMX"         ColorDefRef="SheetColor.Absolute" RGBA="12447DFF"/>
+                <Color Name="TextOtherUser"                         ColorDefRef="SheetColor.TextOtherUser" RGBA="070F18FF"/>
+                <Color Name="BackgroundOtherUser"                   ColorDefRef="SheetColor.OtherUser" RGBA="2E629EFF"/>
+                <Color Name="TextPlayback"                          ColorDefRef="SheetColor.TextPlayback" RGBA="185BA8FF"/>
+                <Color Name="BackgroundPlayback"                    ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextPlaybackTracked"                   ColorDefRef="SheetColor.TextPlaybackTracked" RGBA="103D70FF"/>
+                <Color Name="BackgroundPlaybackTracked"             ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextPlaybackMIB"                       ColorDefRef="SheetColor.TextMIB" RGBA="070F18FF"/>
+                <Color Name="BackgroundPlaybackMIB"                 ColorDefRef="SheetColor.BackMIB" RGBA="0B2B4FFF"/>
+                <Color Name="TextMIBFade"                           ColorDefRef="SheetColor.TextMIBFade" RGBA="070F18FF"/>
+                <Color Name="BackgroundMIBFade"                     ColorDefRef="SheetColor.BackMIBFade" RGBA="103C6FFF"/>
+                <Color Name="TextPlaybackOther"                     ColorDefRef="SheetColor.TextOtherPlayback" RGBA="185BA8FF"/>
+                <Color Name="BackgroundPlaybackOther"               ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextProgOther"                         ColorDefRef="SheetColor.TextOtherProgrammer" RGBA="E5EFFAFF"/>
+                <Color Name="BackgroundProgOther"                   ColorDefRef="SheetColor.BackgroundOtherProgrammer" RGBA="2E629EFF"/>
+                <Color Name="TextPlaybackOtherTracked"              ColorDefRef="SheetColor.TextOtherPlaybackTracked" RGBA="103D70FF"/>
+                <Color Name="BackgroundPlaybackOtherTracked"        ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextSelectedPlayback"                  ColorDefRef="SheetColor.TextSelectedPlayback" RGBA="4298FAFF"/>
+                <Color Name="BackgroundSelectedPlayback"            ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextSelectedPlaybackFade"              ColorDefRef="SheetColor.FadeText" RGBA="1F85F9FF"/>
+                <Color Name="TextSelectedPlaybackDelay"             ColorDefRef="SheetColor.DelayText" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackPhase"             ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextSelectedPlaybackMeasure"           ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextSelectedPlaybackNShot"             ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextSelectedPlaybackSpeed"             ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextSelectedPlaybackSpeedMaster"       ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextSelectedPlaybackGridPos"           ColorDefRef="SheetColor.GridPosText" RGBA="134986FF"/>
+                <Color Name="TextSelectedPlaybackAbsolute"          ColorDefRef="SheetColor.TextSelectedPlayback" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackRelative"          ColorDefRef="SheetColor.RelativeText" RGBA="81BAFCFF"/>
+                <Color Name="TextSelectedPlaybackAccel"             ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextSelectedPlaybackDecel"             ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextSelectedPlaybackTransition"        ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextSelectedPlaybackWidth"             ColorDefRef="SheetColor.PhaserText" RGBA="4398FAFF"/>
+                <Color Name="TextSelectedPlaybackCueAbs"            ColorDefRef="SheetColor.TextSelectedPlayback" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackCueRel"            ColorDefRef="SheetColor.TextSelectedPlayback" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackSequID"            ColorDefRef="SheetColor.TextSelectedPlayback" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackOutput"            ColorDefRef="SheetColor.TextSelectedPlayback" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackDMX"               ColorDefRef="SheetColor.TextSelectedPlayback" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackTracked"           ColorDefRef="SheetColor.TextTracked" RGBA="185BA8FF"/>
+                <Color Name="BackgroundSelectedPlaybackTracked"     ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="TextSelectedPlaybackMIB"               ColorDefRef="SheetColor.TextMIB" RGBA="070F18FF"/>
+                <Color Name="BackgroundSelectedPlaybackMIB"         ColorDefRef="SheetColor.BackMIB" RGBA="0B2B4FFF"/>
+                <Color Name="TextSelectedPlaybackMIBFade"           ColorDefRef="SheetColor.TextMIBFade" RGBA="070F18FF"/>
+                <Color Name="BackgroundSelectedPlaybackMIBFade"     ColorDefRef="SheetColor.BackMIBFade" RGBA="103C6FFF"/>
+                <Color Name="TextSelectedPlaybackBlockedDelay"      ColorDefRef="SheetColor.DelayText" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackBlockedAbsolute"   ColorDefRef="SheetColor.TextBlocked" RGBA="E5EFFAFF"/>
+                <Color Name="TextSelectedPlaybackBlockedRelative"   ColorDefRef="SheetColor.TextBlocked" RGBA="E5EFFAFF"/>
+                <Color Name="TextSelectedPlaybackBlockedCueAbs"     ColorDefRef="SheetColor.IDTextBlocked" RGBA="ABC5E3FF"/>
+                <Color Name="TextSelectedPlaybackBlockedCueRel"     ColorDefRef="SheetColor.IDTextBlocked" RGBA="ABC5E3FF"/>
+                <Color Name="TextSelectedPlaybackBlockedSequID"     ColorDefRef="SheetColor.IDTextBlocked" RGBA="ABC5E3FF"/>
+                <Color Name="TextSelectedPlaybackBlockedOutput"     ColorDefRef="SheetColor.AbsoluteTextBlocked" RGBA="57A3FBFF"/>
+                <Color Name="TextSelectedPlaybackBlockedDMX"        ColorDefRef="SheetColor.AbsoluteTextBlocked" RGBA="57A3FBFF"/>
+                <Color Name="TextSelectedPlaybackUpGoingDelay"      ColorDefRef="SheetColor.DelayText" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackUpGoingAbsolute"   ColorDefRef="SheetColor.UpGoingText" RGBA="4097FAFF"/>
+                <Color Name="TextSelectedPlaybackUpGoingRelative"   ColorDefRef="SheetColor.RelativeText" RGBA="81BAFCFF"/>
+                <Color Name="TextSelectedPlaybackUpGoingCueAbs"     ColorDefRef="SheetColor.IDTextBlocked" RGBA="ABC5E3FF"/>
+                <Color Name="TextSelectedPlaybackUpGoingCueRel"     ColorDefRef="SheetColor.IDTextBlocked" RGBA="ABC5E3FF"/>
+                <Color Name="TextSelectedPlaybackUpGoingSequID"     ColorDefRef="SheetColor.IDTextBlocked" RGBA="ABC5E3FF"/>
+                <Color Name="TextSelectedPlaybackUpGoingOutput"     ColorDefRef="SheetColor.UpGoingText" RGBA="4097FAFF"/>
+                <Color Name="TextSelectedPlaybackUpGoingDMX"        ColorDefRef="SheetColor.UpGoingText" RGBA="4097FAFF"/>
+                <Color Name="TextSelectedPlaybackDownGoingDelay"    ColorDefRef="SheetColor.DelayText" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackDownGoingAbsolute" ColorDefRef="SheetColor.DownGoingText" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackDownGoingRelative" ColorDefRef="SheetColor.RelativeText" RGBA="81BAFCFF"/>
+                <Color Name="TextSelectedPlaybackDownGoingCueAbs"   ColorDefRef="SheetColor.IDTextBlocked" RGBA="ABC5E3FF"/>
+                <Color Name="TextSelectedPlaybackDownGoingCueRel"   ColorDefRef="SheetColor.IDTextBlocked" RGBA="ABC5E3FF"/>
+                <Color Name="TextSelectedPlaybackDownGoingSequID"   ColorDefRef="SheetColor.IDTextBlocked" RGBA="ABC5E3FF"/>
+                <Color Name="TextSelectedPlaybackDownGoingOutput"   ColorDefRef="SheetColor.DownGoingText" RGBA="4298FAFF"/>
+                <Color Name="TextSelectedPlaybackDownGoingDMX"      ColorDefRef="SheetColor.DownGoingText" RGBA="4298FAFF"/>
+                <Color Name="ExtendedSheetModeFrame"                RGBA="17314FFF"/>
+            </ColorGroup>
+            <ColorGroup Name="MainDialog">
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="Pressed"                               ColorDefRef="Global.Pressed" RGBA="2E629EFF"/>
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="TextView">
+                <Color Name="Background"                            RGBA="070F18C0"/>
+                <Color Name="TextSelectionBkColor"                  RGBA="183453FF"/>
+                <Color Name="FixedBackground"                       RGBA="081F3AFF"/>
+            </ColorGroup>
+            <ColorGroup Name="Oscilloscope">
+                <Color Name="Background"                            RGBA="070F18C0"/>
+                <Color Name="Grid1"                                 RGBA="081F3AFF"/>
+                <Color Name="Grid2"                                 RGBA="185BA8FF"/>
+                <Color Name="Level"                                 RGBA="103D70FF"/>
+                <Color Name="Peak"                                  RGBA="103D70FF"/>
+                <Color Name="Trigger"                               RGBA="99C8FCFF"/>
+                <Color Name="All"                                   RGBA="2E629EFF"/>
+                <Color Name="Bass"                                  RGBA="2D8CFAFF"/>
+                <Color Name="Mid"                                   RGBA="16549AFF"/>
+                <Color Name="High"                                  RGBA="2D8CFAFF"/>
+                <Color Name="Band1"                                 RGBA="2D8CFAFF"/>
+                <Color Name="Band2"                                 RGBA="2286F9FF"/>
+                <Color Name="Band3"                                 RGBA="185BA8FF"/>
+                <Color Name="Band4"                                 RGBA="16549AFF"/>
+                <Color Name="Band5"                                 RGBA="185BA8FF"/>
+                <Color Name="Band6"                                 RGBA="2286F9FF"/>
+                <Color Name="Band7"                                 RGBA="2D8CFAFF"/>
+                <Color Name="Signal"                                RGBA="185BA8FF"/>
+                <Color Name="Cpu"                                   RGBA="185BA8C0"/>
+                <Color Name="Mem"                                   RGBA="185BA8C0"/>
+                <Color Name="PrimaryBeat"                           RGBA="4298FAFF"/>
+                <Color Name="ValidBeat"                             RGBA="4298FA80"/>
+                <Color Name="InvalidBeat"                           RGBA="2E629E80"/>
+                <Color Name="Sensor"                                RGBA="4298FAFF"/>
+                <Color Name="Warning"                               RGBA="4298FAFF"/>
+                <Color Name="Peek"                                  RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="SystemInfo">
+                <Color Name="Cpu"                                   RGBA="185BA8C0"/>
+                <Color Name="Mem"                                   RGBA="185BA8C0"/>
+                <Color Name="CpuTempLow"                            RGBA="103D70C0"/>
+                <Color Name="CpuTempHigh"                           RGBA="103D70FF"/>
+                <Color Name="GpuTempLow"                            RGBA="103D70C0"/>
+                <Color Name="GpuTempHigh"                           RGBA="103D70FF"/>
+                <Color Name="SysTempLow"                            RGBA="103D70C0"/>
+                <Color Name="SysTempHigh"                           RGBA="103D70FF"/>
+                <Color Name="FanRpmLow"                             RGBA="103D70C0"/>
+                <Color Name="FanRpmHigh"                            RGBA="103D70FF"/>
+            </ColorGroup>
+            <ColorGroup Name="EncoderControl">
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="TextSelectionBackground"               ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="FixedBackground"                       ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="RotateIcon"                            ColorDefRef="Global.TextDark" RGBA="070F18FF"/>
+            </ColorGroup>
+            <ColorGroup Name="SwipeOverlay">
+                <Color Name="Background"                            RGBA="070F1800"/>
+                <Color Name="Button"                                ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="MiniEncoder">
+                <Color Name="Background"                            ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="TextBackground"                        ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="IndicatorBack"                         ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="ColorPicker">
+                <Color Name="Black"                                 ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="White"                                 ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="KnobColorOutOfRange"                   ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="HSBIcon"                               RGBA="ABC5E3FF"/>
+            </ColorGroup>
+            <ColorGroup Name="CustomMasters">
+                <Color Name="Section"                               RGBA="11243BFF"/>
+            </ColorGroup>
+            <ColorGroup Name="DMXState">
+                <Color Name="Off"                                   RGBA="1E4067FF"/>
+                <Color Name="Out"                                   RGBA="103D70FF"/>
+                <Color Name="RDM"                                   RGBA="103D70FF"/>
+                <Color Name="In"                                    ColorDefRef="Global.OrangeIndicator" RGBA="3390FAFF"/>
+                <Color Name="InAndOutActive"                        ColorDefRef="Global.CyanIndicator" RGBA="4298FAFF"/>
+                <Color Name="PoolIconInactive"                      ColorDefRef="Global.TextDark" RGBA="070F18FF"/>
+            </ColorGroup>
+            <ColorGroup Name="StoreOverlay">
+                <Color Name="Headline"                              ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="Title"                                 ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Background"                            ColorDefRef="Global.DarkRedIndicator" RGBA="081F3AFF"/>
+                <Color Name="ButtonHeadline"                        ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="ButtonBackground"                      ColorDefRef="Global.DarkRedIndicator" RGBA="081F3AFF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Bright" RGBA="ABC5E3FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Help">
+                <Color Name="Hover"                                 ColorDefRef="Global.Hover" RGBA="1A385AFF"/>
+                <Color Name="Selected"                              ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="ScrollThumb"                           RGBA="2E629EFF"/>
+                <Color Name="ScrollTrack"                           RGBA="12263DFF"/>
+                <Color Name="TableHead"                             ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="TableRowEven"                          ColorDefRef="Global.DefaultCellBackground" RGBA="1E406780"/>
+                <Color Name="TableRowOdd"                           ColorDefRef="Global.DefaultCellAltBackground" RGBA="18345380"/>
+                <Color Name="Breadcrumb"                            RGBA="2E629EFF"/>
+                <Color Name="Links"                                 RGBA="8CC1FCFF"/>
+            </ColorGroup>
+            <ColorGroup Name="SelectionGrid">
+                <Color Name="Background"                            RGBA="162F4CFF"/>
+                <Color Name="GridLines"                             ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="GridLabels"                            ColorDefRef="Global.LabelText" RGBA="2E629EFF"/>
+                <Color Name="SelectionOutline1"                     RGBA="144C8CFF"/>
+                <Color Name="SelectionOutline2"                     RGBA="144C8CFF"/>
+                <Color Name="Cursor"                                ColorDefRef="Global.Lasso" RGBA="16549AFF"/>
+                <Color Name="GridBox"                               ColorDefRef="Global.SelectedFrameBackground" RGBA="0D3059FF"/>
+                <Color Name="Box000"                               />
+                <Color Name="Centerline"                            RGBA="4298FAFF"/>
+                <Color Name="SetupLasso"                           />
+                <Color Name="SelectionCountText"                   />
+                <Color Name="SetupActiveIndicator"                  ColorDefRef="Global.YellowIndicator" RGBA="4298FAFF"/>
+                <Color Name="BitmapOutline1"                        RGBA="1F436CFF"/>
+                <Color Name="BitmapOutline2"                        RGBA="185BA8FF"/>
+                <Color Name="XyzTextColor"                          RGBA="4298FAAA"/>
+            </ColorGroup>
+            <ColorGroup Name="Universe">
+                <Color Name="Granted"                               ColorDefRef="Global.GreenIndicator" RGBA="185BA8FF"/>
+                <Color Name="NotGranted"                            ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="PhaserUI">
+                <Color Name="Grid1"                                 RGBA="081F3AFF"/>
+                <Color Name="Grid2"                                 RGBA="185BA8FF"/>
+                <Color Name="StepText"                              RGBA="2E629EFF"/>
+                <Color Name="SelectedStepText"                     />
+                <Color Name="Spline"                                RGBA="081F3AFF"/>
+                <Color Name="SelectedSpline"                        RGBA="103D70FF"/>
+                <Color Name="HandleLine"                            RGBA="11417780"/>
+                <Color Name="SelectedHandleLine"                    RGBA="103D70FF"/>
+                <Color Name="CenterLine"                            RGBA="4298FA20"/>
+                <Color Name="SelectedCenterLine"                    RGBA="4298FA40"/>
+                <Color Name="Background"                            RGBA="070F1880"/>
+            </ColorGroup>
+            <ColorGroup Name="StationGrid">
+                <Color Name="BackgroundConnected"                   ColorDefRef="Global.Connected" RGBA="103D70FF"/>
+                <Color Name="BackgroundIPproblem"                   ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="BackgroundUpdateMode"                  ColorDefRef="Global.YellowIndicator" RGBA="4298FAFF"/>
+                <Color Name="BackgroundInviteDisabled"              ColorDefRef="Global.OrangeIndicator" RGBA="3390FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="FixtureCalibPoints">
+                <Color Name="P1"                                    RGBA="2D8CFAFF"/>
+                <Color Name="P2"                                    RGBA="2D8CFAFF"/>
+                <Color Name="P3"                                    RGBA="2D8CFAFF"/>
+                <Color Name="P4"                                    RGBA="2D8CFAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="FixtureSpecials">
+                <Color Name="ClonedHint"                            ColorDefRef="Global.ClonedHint" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="Timecode">
+                <Color Name="TimeCursor"                            RGBA="1F85F9FF"/>
+                <Color Name="DefaultItemColor"                      RGBA="2E629E88"/>
+                <Color Name="SelectedColor"                         ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="MainTimeline"                         />
+                <Color Name="LinkedTimeline"                        RGBA="2E629EFF"/>
+                <Color Name="NotUsedTimeline"                       RGBA="0C2F56FF"/>
+                <Color Name="DefaultMarkerColor"                    ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="DefaultDiamondColor"                   ColorDefRef="Global.BackgroundDark" RGBA="070F18FF"/>
+                <Color Name="DefaultEventTextColor"                 ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="WaveFormColor"                         ColorDefRef="Global.WaveForm" RGBA="4298FACC"/>
+                <Color Name="PlayActive"                            RGBA="4298FAFF"/>
+                <Color Name="PauseActive"                           RGBA="4298FAFF"/>
+                <Color Name="RecordActive"                          RGBA="4298FAFF"/>
+                <Color Name="RecordSinglueUserActive"               ColorDefRef="Global.DarkOrangeIndicator" RGBA="103D70FF"/>
+                <Color Name="LinkOverlayColor"                      ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="SkippedNonUserEvents"                  ColorDefRef="Global.BackgroundDark" RGBA="070F18FF"/>
+                <Color Name="TriggerIconSelected"                   ColorDefRef="Global.BackgroundDark" RGBA="070F18FF"/>
+                <Color Name="TriggerIcon"                           ColorDefRef="Global.IconHover" RGBA="E5EFFAFF"/>
+                <Color Name="CommandExistsButDisabledSelected"      ColorDefRef="Global.RedBackground" RGBA="114075FF"/>
+                <Color Name="CommandExistsButDisabled"              ColorDefRef="Global.Alert" RGBA="4298FAFF"/>
+                <Color Name="MultipleEventsAtLocation"              ColorDefRef="Global.Error" RGBA="4298FAFF"/>
+                <Color Name="IncompleteWaveFormWarning"             ColorDefRef="Global.Warning" RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="SystemMonitor">
+                <Color Name="Black"                                 RGBA="070F18FF"/>
+                <Color Name="White"                                />
+                <Color Name="Red"                                   RGBA="4298FAFF"/>
+                <Color Name="Green"                                 RGBA="4298FAFF"/>
+                <Color Name="Blue"                                  RGBA="4298FAFF"/>
+                <Color Name="Cyan"                                  RGBA="4298FAFF"/>
+                <Color Name="Magenta"                               RGBA="4298FAFF"/>
+                <Color Name="Yellow"                                RGBA="4298FAFF"/>
+                <Color Name="Background"                            ColorDefRef="Global.TextViewBackground" RGBA="070F18FF"/>
+                <Color Name="FixedBackground"                       ColorDefRef="Global.TextViewFixedBackground" RGBA="081F3AFF"/>
+                <Color Name="SelectedRow"                           ColorDefRef="Global.TextViewSelectedRow" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="LayoutView">
+                <Color Name="Background"                            RGBA="A5CEFD88"/>
+                <Color Name="Selected"                              ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="SelectedInverted"                      ColorDefRef="Global.SelectedInverted" RGBA="99C8FCFF"/>
+                <Color Name="PartlySelected"                        ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+                <Color Name="InvalidGridPosition"                   ColorDefRef="Global.InvalidGridPosition" RGBA="99C8FCFF"/>
+                <Color Name="MainMultiPatchSelected"                ColorDefRef="Global.MainMultiPatchSelected" RGBA="A5CEFDFF"/>
+                <Color Name="SelectToEdit"                          ColorDefRef="Global.Lasso" RGBA="16549AFF"/>
+                <Color Name="BarFrame"                              ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="DimmerBarBackground"                   ColorDefRef="Global.BackgroundDark" RGBA="070F18FF"/>
+                <Color Name="DimmerBarForeground"                   ColorDefRef="Global.OrangeIndicator" RGBA="3390FAFF"/>
+                <Color Name="EditFrame"                             RGBA="4298FA80"/>
+            </ColorGroup>
+            <ColorGroup Name="TimecodeSlot">
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="Active"                                ColorDefRef="Global.GreenIndicator" RGBA="185BA8FF"/>
+            </ColorGroup>
+            <ColorGroup Name="FixtureTypeImport">
+                <Color Name="TabInactive"                           ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="TabActive"                             ColorDefRef="Global.Background" RGBA="070F1880"/>
+            </ColorGroup>
+            <ColorGroup Name="InsertFixturesWizard">
+                <Color Name="Collision"                             ColorDefRef="Global.RedBackground" RGBA="114075FF"/>
+                <Color Name="UserEdited"                            RGBA="0D325DFF"/>
+            </ColorGroup>
+            <ColorGroup Name="MessageBox">
+                <Color Name="Progress"                              RGBA="185BA840"/>
+            </ColorGroup>
+            <ColorGroup Name="FIDGridCell">
+                <Color Name="TextNotUsed"                           ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="BackgroundNotUsed"                     ColorDefRef="Global.Transparent50" RGBA="00000080"/>
+                <Color Name="TextUsed"                              ColorDefRef="Global.GreenIndicator" RGBA="185BA8FF"/>
+                <Color Name="BackgroundUsed"                        ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+            </ColorGroup>
+            <ColorGroup Name="SequenceGrid">
+                <Color Name="TextInheritedTime"                     ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="CurrentCueBackground"                  RGBA="4298FA80"/>
+                <Color Name="CurrentCueText"                        ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="RunningCueBackground"                  RGBA="4298FA80"/>
+                <Color Name="RunningCueText"                        ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="EmptyCuePartBackground"                ColorDefRef="SheetColor.Background" RGBA="1E406780"/>
+                <Color Name="EmptyCuePartText"                      ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="ProgressTrig"                          ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="ProgressCommandDelay"                  ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="ProgressSnapDelay"                     ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="ProgressFadeOut"                       ColorDefRef="SheetColor.Fade" RGBA="103D70FF"/>
+                <Color Name="ProgressDelayOut"                      ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="ProgressFade"                          ColorDefRef="SheetColor.Fade" RGBA="103D70FF"/>
+                <Color Name="ProgressDelay"                         ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+                <Color Name="ProgressFadeFG"                        ColorDefRef="SheetColor.Fade" RGBA="103D70FF"/>
+                <Color Name="ProgressDelayFG"                       ColorDefRef="SheetColor.Delay" RGBA="16559DFF"/>
+            </ColorGroup>
+            <ColorGroup Name="KeyboardShortcuts">
+                <Color Name="ButtonSubtitle"                        RGBA="99C8FCFF"/>
+                <Color Name="TemporallySwitchedOff"                 RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="Trackpad">
+                <Color Name="Raster"                                ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="RemoteInfo">
+                <Color Name="Upper"                                 RGBA="103C6EFF"/>
+                <Color Name="Lower"                                 RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="RemoteInputLock">
+                <Color Name="Background"                            ColorDefRef="Global.RemoteInputLock" RGBA="0E3765CC"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TextSelected"                          ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="BackgroundSelected"                    ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="TextPartlySelected"                    ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+                <Color Name="BackgroundPartlySelected"              ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Agenda">
+                <Color Name="DayHeader"                             ColorDefRef="Global.Header" RGBA="102237FF"/>
+                <Color Name="DayNotCurrentMonth"                    ColorDefRef="Global.ButtonBackgroundDarker" RGBA="183453FF"/>
+                <Color Name="DayCurrentMonth"                       ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="DayToday"                              RGBA="214671FF"/>
+                <Color Name="DayAgendaPlanned"                      RGBA="0E3460FF"/>
+                <Color Name="AgendaEntryBackground"                 RGBA="070F1890"/>
+            </ColorGroup>
+            <ColorGroup Name="CommandLineHistory">
+                <Color Name="Background"                            ColorDefRef="Global.TextViewBackground" RGBA="070F18FF"/>
+                <Color Name="FixedBackground"                       ColorDefRef="Global.TextViewFixedBackground" RGBA="081F3AFF"/>
+                <Color Name="SelectedRow"                           ColorDefRef="Global.TextViewSelectedRow" RGBA="183453FF"/>
+            </ColorGroup>
+            <ColorGroup Name="DmxCurveEditor">
+                <Color Name="Grid"                                  RGBA="185BA8FF"/>
+                <Color Name="SelectedHandleLine"                    RGBA="103D70FF"/>
+                <Color Name="Background"                            ColorDefRef="Global.Background" RGBA="070F1880"/>
+            </ColorGroup>
+            <ColorGroup Name="Timer">
+                <Color Name="CountdownDisplay"                      RGBA="4298FAFF"/>
+                <Color Name="StopwatchDisplay"                     />
+                <Color Name="CountdownProgress"                     RGBA="1F85F9FF"/>
+                <Color Name="CountdownConfirmed"                    RGBA="4298FAFF"/>
+                <Color Name="StopwatchProgress"                     RGBA="1F85F9FF"/>
+            </ColorGroup>
+            <ColorGroup Name="TimerButton">
+                <Color Name="Countdown"                            />
+                <Color Name="Stopwatch"                            />
+                <Color Name="CountdownOff"                          RGBA="E5EFFA88"/>
+            </ColorGroup>
+            <ColorGroup Name="ColorThemeCompare">
+                <Color Name="MissingRow"                            ColorDefRef="Global.Fixed" RGBA="185BA8FF"/>
+                <Color Name="MergedRow"                             ColorDefRef="Global.GreenIndicator" RGBA="185BA8FF"/>
+                <Color Name="VisibleRows"                           ColorDefRef="Global.TransparentWhite" RGBA="FFFFFF66"/>
+            </ColorGroup>
+            <ColorGroup Name="EncoderBar">
+                <Color Name="MultiStep"                             ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+            </ColorGroup>
+            <ColorGroup Name="ShowCreator">
+                <Color Name="Section"                               RGBA="13294255"/>
+                <Color Name="DirectionIcon"                         ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+                <Color Name="ObjectTypeBackground"                  ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+            </ColorGroup>
+            <ColorGroup Name="RotationButton">
+                <Color Name="Circle"                                ColorDefRef="Global.TransparentWhite" RGBA="FFFFFF66"/>
+                <Color Name="Marking"                               ColorDefRef="Global.Transparent50" RGBA="00000080"/>
+                <Color Name="Arrow"                                 ColorDefRef="Global.Transparent50" RGBA="00000080"/>
+            </ColorGroup>
+            <ColorGroup Name="CloneUI">
+                <Color Name="Chosen"                                ColorDefRef="Global.YellowIndicator" RGBA="4298FAFF"/>
+                <Color Name="All"                                   ColorDefRef="Global.GreenIndicator" RGBA="185BA8FF"/>
+                <Color Name="None"                                  ColorDefRef="Global.TitleGray" RGBA="2E629EFF"/>
+            </ColorGroup>
+            <ColorGroup Name="UpdateMenu">
+                <Color Name="ExtendedOptionsBackground"             ColorDefRef="Global.DefaultCellBackground" RGBA="1E406780"/>
+                <Color Name="OptionsSummaryLabelText"               ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="OptionsSummaryValueText"               ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="OptionsLabelText"                      ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="CellBackground"                        ColorDefRef="Global.DefaultCellBackground" RGBA="1E406780"/>
+                <Color Name="CellAltBackground"                     ColorDefRef="Global.DefaultCellAltBackground" RGBA="18345380"/>
+            </ColorGroup>
+            <ColorGroup Name="PSR">
+                <Color Name="MatchSameBK"                           ColorDefRef="Global.IndicatorBar" RGBA="2E629EFF"/>
+                <Color Name="MatchOlderBK"                          ColorDefRef="Global.RedIndicator" RGBA="103D70FF"/>
+                <Color Name="MatchYoungerBK"                        ColorDefRef="Global.GreenIndicator" RGBA="185BA8FF"/>
+                <Color Name="MatchMixBK"                            ColorDefRef="Global.OrangeIndicator" RGBA="3390FAFF"/>
+                <Color Name="Selected"                              ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="SelectedInTree"                        ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="SelectedDependency"                    RGBA="4398FAFF"/>
+                <Color Name="DefaultText"                           ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="SelectedText"                          ColorDefRef="Global.TextDefault" RGBA="2E629EFF"/>
+                <Color Name="DisabledText"                          RGBA="2E629EFF"/>
+                <Color Name="Separator"                             ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="DifferentText"                         RGBA="65ABFBFF"/>
+            </ColorGroup>
+            <ColorGroup Name="RenderData">
+                <Color Name="Selected"                              ColorDefRef="Global.Selected" RGBA="4298FAFF"/>
+                <Color Name="Text"                                  ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+                <Color Name="TextBlack"                             RGBA="070F18FF"/>
+                <Color Name="ExecuteIcon"                           RGBA="070F18FF"/>
+                <Color Name="ButtonBackground"                      ColorDefRef="Global.ButtonBackground" RGBA="1E4067FF"/>
+                <Color Name="EmptyButton"                           RGBA="070F1880"/>
+                <Color Name="EmptyButtonHover"                      RGBA="070F1880"/>
+                <Color Name="LocatedBackground"                     RGBA="4298FAFF"/>
+                <Color Name="LocateOverlay"                         RGBA="103D70FF"/>
+            </ColorGroup>
+            <ColorGroup Name="Subfixture">
+                <Color Name="DimmerBarFrame"                        ColorDefRef="Global.Inactive" RGBA="2E629EA0"/>
+                <Color Name="DimmerBarBackground"                   ColorDefRef="Global.BackgroundDark" RGBA="070F18FF"/>
+                <Color Name="DimmerBarForeground"                   ColorDefRef="Global.OrangeIndicator" RGBA="3390FAFF"/>
+                <Color Name="MarkerBackground"                      ColorDefRef="Global.AltHeader" RGBA="162F4CFF"/>
+                <Color Name="DefaultMarkerColor"                    ColorDefRef="Global.Text" RGBA="E5EFFAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="RecipeEditing">
+                <Color Name="Active"                                ColorDefRef="Global.Cooked" RGBA="99C8FCFF"/>
+                <Color Name="SoftFrame"                             ColorDefRef="Global.PartlySelected" RGBA="103D70FF"/>
+                <Color Name="PresetRecipe"                          ColorDefRef="SheetColor.PresetAbs" RGBA="103D70FF"/>
+                <Color Name="PhaserRecipe"                          ColorDefRef="SheetColor.Phaser" RGBA="17569FFF"/>
+                <Color Name="PhaserRecipeMergedBack"                ColorDefRef="Global.AltHeader" RGBA="162F4CFF"/>
+                <Color Name="ContextBackground"                     RGBA="132942FF"/>
+                <Color Name="CurveBackground"                       RGBA="1758A2FF"/>
+                <Color Name="CurveLine"                            />
+            </ColorGroup>
+            <ColorGroup Name="Action">
+                <Color Name="None"                                  ColorDefRef="Playback.White50" RGBA="E5EFFA80"/>
+                <Color Name="Select"                                ColorDefRef="Playback.White50" RGBA="E5EFFA80"/>
+                <Color Name="Flash"                                 ColorDefRef="Playback.White50" RGBA="E5EFFA80"/>
+                <Color Name="Go"                                    ColorDefRef="Playback.White50" RGBA="E5EFFA80"/>
+                <Color Name="Temp"                                  ColorDefRef="Playback.White50" RGBA="E5EFFA80"/>
+                <Color Name="Toggle"                                ColorDefRef="Playback.White50" RGBA="E5EFFA80"/>
+            </ColorGroup>
+            <ColorGroup Name="OutputStation">
+                <Color Name="Missing"                               RGBA="4298FAFF"/>
+                <Color Name="OtherSession"                          RGBA="2E629EFF"/>
+                <Color Name="GlobalMaster"                          RGBA="4298FAFF"/>
+                <Color Name="Standalone"                            RGBA="4298FAFF"/>
+                <Color Name="Connected"                             RGBA="4298FAFF"/>
+            </ColorGroup>
+            <ColorGroup Name="User">
+                <Color Name="LoggedOut"                             RGBA="2E629EFF"/>
+                <Color Name="LoggedIn"                              RGBA="4298FAFF"/>
+                <Color Name="AFK"                                   RGBA="185BA8FF"/>
+            </ColorGroup>
+            <ColorGroup Name="FilterGrid">
+                <Color Name="RulesetSeparator"                     />
+                <Color Name="ResultingAttributes"                   RGBA="7DB8FCFF"/>
+            </ColorGroup>
+        </ColorGroups>
+    </ColorTheme>
+</GMA3>

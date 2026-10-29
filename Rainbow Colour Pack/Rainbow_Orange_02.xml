@@ -5,7 +5,7 @@
   Created: October 2026
 -->
 <GMA3 DataVersion="2.5.1.1">
-    <ColorTheme FileName="Rainbow_Orange_02.xml">
+    <ColorTheme FileName="Rainbow_2_Orange.xml">
         <ColorDefCollect>
             <ColorDefGroup Name="Global">
                 <ColorDef Name="Text"                             RGBA="FAEFE5FF"/>

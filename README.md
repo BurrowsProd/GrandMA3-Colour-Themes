@@ -31,3 +31,11 @@ Made by **Shay Burrows / [Burrows Production](https://www.instagram.com/burrows.
 | **LowLight** | 4 | Best for low light environments | [View](previews/LowLight_Preview.png) |
 | **Access** | 4 | High-contrast and colour-blind-safe | [View](previews/Access_Preview.png) |
 | **Burrows** | 4 | My personal themes :)) | [View](previews/Burrows_Preview.png) |
+
+---
+
+## Installation
+
+### 1. Download
+
+Grab whichever colour pack you want or the combined master pack from the Releases page

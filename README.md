@@ -29,7 +29,7 @@ Made by **Shay Burrows / [Burrows Production](https://www.instagram.com/burrows.
 | **Pride** | 9 | Pride flag themes | [View](previews/Pride_Pack_Preview.png) |
 | **Season** | 8 | Seasonal and holiday themes | [View](previews/Seasonal_Pack_Preview.png) |
 | **LowLight** | 4 | Best for low light environments | [View](previews/Low_Light_Pack_Preview.png) |
-| **Access** | 4 | High-contrast and colour-blind-safe | [View](previews/Access_Preview.png) |
+| **Access** | 4 | High-contrast and colour-blind-safe | [View](previews/Accessibility_Preview.png) |
 | **Burrows** | 4 | My personal themes :)) | [View](previews/Burrows_Preview.png) |
 
 ---

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  TransFlagVeryBright - grandMA3 colour theme
+  Pride_09_TransVeryBright.xml - grandMA3 colour theme
   Author: Shay Burrows / Burrows Production
   Created: October 2026
 -->
 <GMA3 DataVersion="2.5.1.1">
-    <ColorTheme FileName="TransFlag.xml">
+    <ColorTheme FileName="Pride_09_TransVeryBright.xml">
         <ColorDefCollect>
             <ColorDefGroup Name="Global">
                 <ColorDef Name="Text"                             RGBA="0B2A3AFF"/>

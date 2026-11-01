@@ -15,6 +15,10 @@ Made by **Shay Burrows / [Burrows Production](https://www.instagram.com/burrows.
 - [Installation](#installation)
 - [Switching Themes](#switching-themes)
 - [Resetting To Default](#resetting-to-default)
+- [Compatibility](#compatibility)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [License](#license)
 
 ---
 

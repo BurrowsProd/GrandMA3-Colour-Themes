@@ -22,7 +22,7 @@ Made by **Shay Burrows / [Burrows Production](https://www.instagram.com/burrows.
 
 | Pack | Themes | Style | Preview |
 |---|---|---|---|
-| **Palette** | 16 | Most of the themes you'll find in an IDE (fully accented) | [View](previews/Palette_Preview.png) |
+| **Palette** | 16 | Most of the themes you'll find in an IDE (fully accented) | [View](previews/Palette_Pack_Preview.png) |
 | **Rainbow** | 7 | Seven colours of the rainbow | [View](previews/Rainbow_Pack_Preview.png) |
 | **Pastel** | 7 | Seven colours of the rainbow, but pastel! **Could be hard to read if colourblind** | [View](previews/Pastel_Rainbow_Preview.png) |
 | **Combo** | 10 | Two-colour pairings | [View](previews/Combo_Preview.png) |

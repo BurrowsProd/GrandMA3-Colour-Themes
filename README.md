@@ -26,7 +26,7 @@ Made by **Shay Burrows / [Burrows Production](https://www.instagram.com/burrows.
 | **Rainbow** | 7 | Seven colours of the rainbow | [View](previews/Rainbow_Pack_Preview.png) |
 | **Pastel** | 7 | Seven colours of the rainbow, but pastel! **Could be hard to read if colourblind** | [View](previews/Pastel_Rainbow_Preview.png) |
 | **Combo** | 10 | Two-colour pairings | [View](previews/Combo_Pack_Preview.png) |
-| **Pride** | 9 | Pride flag themes | [View](previews/Pride_Preview.png) |
+| **Pride** | 9 | Pride flag themes | [View](previews/Pride_Pack_Preview.png) |
 | **Season** | 8 | Seasonal and holiday themes | [View](previews/Season_Preview.png) |
 | **LowLight** | 4 | Best for low light environments | [View](previews/LowLight_Preview.png) |
 | **Access** | 4 | High-contrast and colour-blind-safe | [View](previews/Access_Preview.png) |

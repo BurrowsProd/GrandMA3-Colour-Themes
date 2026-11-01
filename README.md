@@ -5,6 +5,8 @@ A collection of 64 colour themes that I made for the GrandMA3 lighting console. 
 
 Made by **Shay Burrows / [Burrows Production](https://www.instagram.com/burrows.prod/)**
 
+<a href="https://buymeacoffee.com/burrowsprod" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ![Palette Pack Preview](previews/Preview.png)
 
 ---
